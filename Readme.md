@@ -2,10 +2,6 @@
 
 This project transforms raw IPL data into meaningful statistics. Using JavaScript, we analyze datasets on matches and deliveries to answer key questions, including match counts per year, team performance, player achievements, and bowler economies.
 
-## Project Structure
-
-js-ipl-data-project/ ├── src/ │ ├── 1-matches-per-year.js │ ├── 2-matches-won-per-team-per-year.js │ └── ... ├── server/ ├── public/ ├── output/ │ ├── matchesPerYear.json │ └── ... ├── data/ │ ├── matches.csv │ └── deliveries.csv ├── .gitignore ├── package.json └── README.md
-
 
 ### Directory Explanation
 
