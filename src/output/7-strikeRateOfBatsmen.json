@@ -1,0 +1,7677 @@
+{
+  "2008": {
+    "SC Ganguly": {
+      "runs_played": 349,
+      "balls_played": 324,
+      "strike_rate": "107.72"
+    },
+    "BB McCullum": {
+      "runs_played": 188,
+      "balls_played": 96,
+      "strike_rate": "195.83"
+    },
+    "RT Ponting": {
+      "runs_played": 39,
+      "balls_played": 53,
+      "strike_rate": "73.58"
+    },
+    "DJ Hussey": {
+      "runs_played": 319,
+      "balls_played": 267,
+      "strike_rate": "119.48"
+    },
+    "Mohammad Hafeez": {
+      "runs_played": 64,
+      "balls_played": 84,
+      "strike_rate": "76.19"
+    },
+    "R Dravid": {
+      "runs_played": 371,
+      "balls_played": 299,
+      "strike_rate": "124.08"
+    },
+    "W Jaffer": {
+      "runs_played": 115,
+      "balls_played": 110,
+      "strike_rate": "104.55"
+    },
+    "V Kohli": {
+      "runs_played": 165,
+      "balls_played": 168,
+      "strike_rate": "98.21"
+    },
+    "JH Kallis": {
+      "runs_played": 199,
+      "balls_played": 188,
+      "strike_rate": "105.85"
+    },
+    "CL White": {
+      "runs_played": 114,
+      "balls_played": 105,
+      "strike_rate": "108.57"
+    },
+    "MV Boucher": {
+      "runs_played": 225,
+      "balls_played": 181,
+      "strike_rate": "124.31"
+    },
+    "B Akhil": {
+      "runs_played": 46,
+      "balls_played": 32,
+      "strike_rate": "143.75"
+    },
+    "AA Noffke": {
+      "runs_played": 9,
+      "balls_played": 12,
+      "strike_rate": "75.00"
+    },
+    "P Kumar": {
+      "runs_played": 112,
+      "balls_played": 100,
+      "strike_rate": "112.00"
+    },
+    "Z Khan": {
+      "runs_played": 34,
+      "balls_played": 43,
+      "strike_rate": "79.07"
+    },
+    "SB Joshi": {
+      "runs_played": 6,
+      "balls_played": 16,
+      "strike_rate": "37.50"
+    },
+    "PA Patel": {
+      "runs_played": 302,
+      "balls_played": 315,
+      "strike_rate": "95.87"
+    },
+    "ML Hayden": {
+      "runs_played": 189,
+      "balls_played": 135,
+      "strike_rate": "140.00"
+    },
+    "MEK Hussey": {
+      "runs_played": 168,
+      "balls_played": 100,
+      "strike_rate": "168.00"
+    },
+    "MS Dhoni": {
+      "runs_played": 414,
+      "balls_played": 319,
+      "strike_rate": "129.78"
+    },
+    "SK Raina": {
+      "runs_played": 421,
+      "balls_played": 304,
+      "strike_rate": "138.49"
+    },
+    "JDP Oram": {
+      "runs_played": 18,
+      "balls_played": 13,
+      "strike_rate": "138.46"
+    },
+    "S Badrinath": {
+      "runs_played": 192,
+      "balls_played": 138,
+      "strike_rate": "139.13"
+    },
+    "K Goel": {
+      "runs_played": 76,
+      "balls_played": 79,
+      "strike_rate": "96.20"
+    },
+    "JR Hopes": {
+      "runs_played": 221,
+      "balls_played": 152,
+      "strike_rate": "145.39"
+    },
+    "KC Sangakkara": {
+      "runs_played": 320,
+      "balls_played": 207,
+      "strike_rate": "154.59"
+    },
+    "Yuvraj Singh": {
+      "runs_played": 299,
+      "balls_played": 191,
+      "strike_rate": "156.54"
+    },
+    "SM Katich": {
+      "runs_played": 96,
+      "balls_played": 72,
+      "strike_rate": "133.33"
+    },
+    "IK Pathan": {
+      "runs_played": 131,
+      "balls_played": 120,
+      "strike_rate": "109.17"
+    },
+    "T Kohli": {
+      "runs_played": 10,
+      "balls_played": 16,
+      "strike_rate": "62.50"
+    },
+    "YK Pathan": {
+      "runs_played": 435,
+      "balls_played": 253,
+      "strike_rate": "171.94"
+    },
+    "SR Watson": {
+      "runs_played": 472,
+      "balls_played": 322,
+      "strike_rate": "146.58"
+    },
+    "M Kaif": {
+      "runs_played": 176,
+      "balls_played": 176,
+      "strike_rate": "100.00"
+    },
+    "DS Lehmann": {
+      "runs_played": 18,
+      "balls_played": 19,
+      "strike_rate": "94.74"
+    },
+    "RA Jadeja": {
+      "runs_played": 135,
+      "balls_played": 108,
+      "strike_rate": "125.00"
+    },
+    "M Rawat": {
+      "runs_played": 34,
+      "balls_played": 39,
+      "strike_rate": "87.18"
+    },
+    "D Salunkhe": {
+      "runs_played": 33,
+      "balls_played": 24,
+      "strike_rate": "137.50"
+    },
+    "SK Warne": {
+      "runs_played": 70,
+      "balls_played": 60,
+      "strike_rate": "116.67"
+    },
+    "SK Trivedi": {
+      "runs_played": 5,
+      "balls_played": 12,
+      "strike_rate": "41.67"
+    },
+    "G Gambhir": {
+      "runs_played": 534,
+      "balls_played": 394,
+      "strike_rate": "135.53"
+    },
+    "V Sehwag": {
+      "runs_played": 406,
+      "balls_played": 229,
+      "strike_rate": "177.29"
+    },
+    "S Dhawan": {
+      "runs_played": 340,
+      "balls_played": 308,
+      "strike_rate": "110.39"
+    },
+    "L Ronchi": {
+      "runs_played": 34,
+      "balls_played": 34,
+      "strike_rate": "100.00"
+    },
+    "ST Jayasuriya": {
+      "runs_played": 514,
+      "balls_played": 333,
+      "strike_rate": "154.35"
+    },
+    "DJ Thornely": {
+      "runs_played": 39,
+      "balls_played": 54,
+      "strike_rate": "72.22"
+    },
+    "RV Uthappa": {
+      "runs_played": 320,
+      "balls_played": 291,
+      "strike_rate": "109.97"
+    },
+    "PR Shah": {
+      "runs_played": 34,
+      "balls_played": 38,
+      "strike_rate": "89.47"
+    },
+    "AM Nayar": {
+      "runs_played": 206,
+      "balls_played": 142,
+      "strike_rate": "145.07"
+    },
+    "SM Pollock": {
+      "runs_played": 147,
+      "balls_played": 116,
+      "strike_rate": "126.72"
+    },
+    "Harbhajan Singh": {
+      "runs_played": 30,
+      "balls_played": 17,
+      "strike_rate": "176.47"
+    },
+    "S Chanderpaul": {
+      "runs_played": 25,
+      "balls_played": 33,
+      "strike_rate": "75.76"
+    },
+    "LRPL Taylor": {
+      "runs_played": 149,
+      "balls_played": 85,
+      "strike_rate": "175.29"
+    },
+    "AC Gilchrist": {
+      "runs_played": 436,
+      "balls_played": 328,
+      "strike_rate": "132.93"
+    },
+    "Y Venugopal Rao": {
+      "runs_played": 288,
+      "balls_played": 217,
+      "strike_rate": "132.72"
+    },
+    "VVS Laxman": {
+      "runs_played": 155,
+      "balls_played": 134,
+      "strike_rate": "115.67"
+    },
+    "A Symonds": {
+      "runs_played": 161,
+      "balls_played": 111,
+      "strike_rate": "145.05"
+    },
+    "RG Sharma": {
+      "runs_played": 404,
+      "balls_played": 276,
+      "strike_rate": "146.38"
+    },
+    "SB Styris": {
+      "runs_played": 112,
+      "balls_played": 124,
+      "strike_rate": "90.32"
+    },
+    "AS Yadav": {
+      "runs_played": 49,
+      "balls_played": 40,
+      "strike_rate": "122.50"
+    },
+    "SB Bangar": {
+      "runs_played": 47,
+      "balls_played": 49,
+      "strike_rate": "95.92"
+    },
+    "WPUJC Vaas": {
+      "runs_played": 21,
+      "balls_played": 18,
+      "strike_rate": "116.67"
+    },
+    "RP Singh": {
+      "runs_played": 27,
+      "balls_played": 25,
+      "strike_rate": "108.00"
+    },
+    "WP Saha": {
+      "runs_played": 159,
+      "balls_played": 119,
+      "strike_rate": "133.61"
+    },
+    "LR Shukla": {
+      "runs_played": 163,
+      "balls_played": 127,
+      "strike_rate": "128.35"
+    },
+    "DPMD Jayawardene": {
+      "runs_played": 179,
+      "balls_played": 138,
+      "strike_rate": "129.71"
+    },
+    "S Sohal": {
+      "runs_played": 4,
+      "balls_played": 8,
+      "strike_rate": "50.00"
+    },
+    "B Lee": {
+      "runs_played": 17,
+      "balls_played": 14,
+      "strike_rate": "121.43"
+    },
+    "PP Chawla": {
+      "runs_played": 90,
+      "balls_played": 61,
+      "strike_rate": "147.54"
+    },
+    "WA Mota": {
+      "runs_played": 26,
+      "balls_played": 28,
+      "strike_rate": "92.86"
+    },
+    "Kamran Akmal": {
+      "runs_played": 128,
+      "balls_played": 78,
+      "strike_rate": "164.10"
+    },
+    "Shahid Afridi": {
+      "runs_played": 81,
+      "balls_played": 46,
+      "strike_rate": "176.09"
+    },
+    "DJ Bravo": {
+      "runs_played": 178,
+      "balls_played": 137,
+      "strike_rate": "129.93"
+    },
+    "MA Khote": {
+      "runs_played": 24,
+      "balls_played": 22,
+      "strike_rate": "109.09"
+    },
+    "A Nehra": {
+      "runs_played": 3,
+      "balls_played": 13,
+      "strike_rate": "23.08"
+    },
+    "GC Smith": {
+      "runs_played": 441,
+      "balls_played": 375,
+      "strike_rate": "117.60"
+    },
+    "Pankaj Singh": {
+      "runs_played": 5,
+      "balls_played": 8,
+      "strike_rate": "62.50"
+    },
+    "RR Sarwan": {
+      "runs_played": 73,
+      "balls_played": 78,
+      "strike_rate": "93.59"
+    },
+    "S Sreesanth": {
+      "runs_played": 0,
+      "balls_played": 3,
+      "strike_rate": "0.00"
+    },
+    "VRV Singh": {
+      "runs_played": 4,
+      "balls_played": 3,
+      "strike_rate": "133.33"
+    },
+    "SS Tiwary": {
+      "runs_played": 26,
+      "balls_played": 20,
+      "strike_rate": "130.00"
+    },
+    "DS Kulkarni": {
+      "runs_played": 2,
+      "balls_played": 17,
+      "strike_rate": "11.76"
+    },
+    "R Vinay Kumar": {
+      "runs_played": 25,
+      "balls_played": 28,
+      "strike_rate": "89.29"
+    },
+    "AB Agarkar": {
+      "runs_played": 54,
+      "balls_played": 49,
+      "strike_rate": "110.20"
+    },
+    "M Kartik": {
+      "runs_played": 30,
+      "balls_played": 28,
+      "strike_rate": "107.14"
+    },
+    "I Sharma": {
+      "runs_played": 11,
+      "balls_played": 11,
+      "strike_rate": "100.00"
+    },
+    "AM Rahane": {
+      "runs_played": 4,
+      "balls_played": 19,
+      "strike_rate": "21.05"
+    },
+    "Shoaib Malik": {
+      "runs_played": 52,
+      "balls_played": 49,
+      "strike_rate": "106.12"
+    },
+    "MK Tiwary": {
+      "runs_played": 104,
+      "balls_played": 87,
+      "strike_rate": "119.54"
+    },
+    "KD Karthik": {
+      "runs_played": 145,
+      "balls_played": 108,
+      "strike_rate": "134.26"
+    },
+    "R Bhatia": {
+      "runs_played": 34,
+      "balls_played": 28,
+      "strike_rate": "121.43"
+    },
+    "MF Maharoof": {
+      "runs_played": 125,
+      "balls_played": 79,
+      "strike_rate": "158.23"
+    },
+    "VY Mahesh": {
+      "runs_played": 15,
+      "balls_played": 28,
+      "strike_rate": "53.57"
+    },
+    "TM Srivastava": {
+      "runs_played": 8,
+      "balls_played": 10,
+      "strike_rate": "80.00"
+    },
+    "B Chipli": {
+      "runs_played": 20,
+      "balls_played": 30,
+      "strike_rate": "66.67"
+    },
+    "DW Steyn": {
+      "runs_played": 2,
+      "balls_played": 5,
+      "strike_rate": "40.00"
+    },
+    "DB Das": {
+      "runs_played": 103,
+      "balls_played": 95,
+      "strike_rate": "108.42"
+    },
+    "MK Pandey": {
+      "runs_played": 3,
+      "balls_played": 10,
+      "strike_rate": "30.00"
+    },
+    "HH Gibbs": {
+      "runs_played": 167,
+      "balls_played": 159,
+      "strike_rate": "105.03"
+    },
+    "DNT Zoysa": {
+      "runs_played": 11,
+      "balls_played": 9,
+      "strike_rate": "122.22"
+    },
+    "D Kalyankrishna": {
+      "runs_played": 3,
+      "balls_played": 8,
+      "strike_rate": "37.50"
+    },
+    "SE Marsh": {
+      "runs_played": 616,
+      "balls_played": 452,
+      "strike_rate": "136.28"
+    },
+    "SA Asnodkar": {
+      "runs_played": 311,
+      "balls_played": 241,
+      "strike_rate": "129.05"
+    },
+    "Sohail Tanvir": {
+      "runs_played": 36,
+      "balls_played": 31,
+      "strike_rate": "116.13"
+    },
+    "Salman Butt": {
+      "runs_played": 193,
+      "balls_played": 172,
+      "strike_rate": "112.21"
+    },
+    "BJ Hodge": {
+      "runs_played": 12,
+      "balls_played": 18,
+      "strike_rate": "66.67"
+    },
+    "Umar Gul": {
+      "runs_played": 39,
+      "balls_played": 19,
+      "strike_rate": "205.26"
+    },
+    "AB Dinda": {
+      "runs_played": 2,
+      "balls_played": 4,
+      "strike_rate": "50.00"
+    },
+    "SP Fleming": {
+      "runs_played": 196,
+      "balls_played": 171,
+      "strike_rate": "114.62"
+    },
+    "S Vidyut": {
+      "runs_played": 145,
+      "balls_played": 115,
+      "strike_rate": "126.09"
+    },
+    "JA Morkel": {
+      "runs_played": 241,
+      "balls_played": 168,
+      "strike_rate": "143.45"
+    },
+    "AB de Villiers": {
+      "runs_played": 95,
+      "balls_played": 100,
+      "strike_rate": "95.00"
+    },
+    "LPC Silva": {
+      "runs_played": 40,
+      "balls_played": 27,
+      "strike_rate": "148.15"
+    },
+    "DB Ravi Teja": {
+      "runs_played": 109,
+      "balls_played": 85,
+      "strike_rate": "128.24"
+    },
+    "Misbah-ul-Haq": {
+      "runs_played": 117,
+      "balls_played": 82,
+      "strike_rate": "142.68"
+    },
+    "YV Takawale": {
+      "runs_played": 70,
+      "balls_played": 69,
+      "strike_rate": "101.45"
+    },
+    "RR Raje": {
+      "runs_played": 8,
+      "balls_played": 9,
+      "strike_rate": "88.89"
+    },
+    "PJ Sangwan": {
+      "runs_played": 2,
+      "balls_played": 5,
+      "strike_rate": "40.00"
+    },
+    "Mohammad Asif": {
+      "runs_played": 3,
+      "balls_played": 6,
+      "strike_rate": "50.00"
+    },
+    "GD McGrath": {
+      "runs_played": 4,
+      "balls_played": 5,
+      "strike_rate": "80.00"
+    },
+    "Joginder Sharma": {
+      "runs_played": 16,
+      "balls_played": 11,
+      "strike_rate": "145.45"
+    },
+    "MS Gony": {
+      "runs_played": 35,
+      "balls_played": 25,
+      "strike_rate": "140.00"
+    },
+    "M Muralitharan": {
+      "runs_played": 0,
+      "balls_played": 3,
+      "strike_rate": "0.00"
+    },
+    "M Ntini": {
+      "runs_played": 11,
+      "balls_played": 19,
+      "strike_rate": "57.89"
+    },
+    "DT Patil": {
+      "runs_played": 13,
+      "balls_played": 13,
+      "strike_rate": "100.00"
+    },
+    "A Kumble": {
+      "runs_played": 13,
+      "balls_played": 17,
+      "strike_rate": "76.47"
+    },
+    "S Anirudha": {
+      "runs_played": 1,
+      "balls_played": 8,
+      "strike_rate": "12.50"
+    },
+    "MM Patel": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "CK Kapugedera": {
+      "runs_played": 16,
+      "balls_played": 24,
+      "strike_rate": "66.67"
+    },
+    "A Chopra": {
+      "runs_played": 42,
+      "balls_played": 55,
+      "strike_rate": "76.36"
+    },
+    "T Taibu": {
+      "runs_played": 31,
+      "balls_played": 26,
+      "strike_rate": "119.23"
+    },
+    "J Arunkumar": {
+      "runs_played": 23,
+      "balls_played": 24,
+      "strike_rate": "95.83"
+    },
+    "PP Ojha": {
+      "runs_played": 2,
+      "balls_played": 4,
+      "strike_rate": "50.00"
+    },
+    "SP Goswami": {
+      "runs_played": 82,
+      "balls_played": 86,
+      "strike_rate": "95.35"
+    },
+    "SR Tendulkar": {
+      "runs_played": 188,
+      "balls_played": 189,
+      "strike_rate": "99.47"
+    },
+    "U Kaul": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "TM Dilshan": {
+      "runs_played": 104,
+      "balls_played": 79,
+      "strike_rate": "131.65"
+    },
+    "A Mishra": {
+      "runs_played": 37,
+      "balls_played": 42,
+      "strike_rate": "88.10"
+    },
+    "AD Mascarenhas": {
+      "runs_played": 9,
+      "balls_played": 8,
+      "strike_rate": "112.50"
+    },
+    "Niraj Patel": {
+      "runs_played": 103,
+      "balls_played": 83,
+      "strike_rate": "124.10"
+    },
+    "LA Pomersbach": {
+      "runs_played": 152,
+      "balls_played": 101,
+      "strike_rate": "150.50"
+    },
+    "Iqbal Abdulla": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "Younis Khan": {
+      "runs_played": 3,
+      "balls_played": 7,
+      "strike_rate": "42.86"
+    },
+    "PM Sarvesh Kumar": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "DP Vijaykumar": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "Shoaib Akhtar": {
+      "runs_played": 2,
+      "balls_played": 8,
+      "strike_rate": "25.00"
+    },
+    "Abdur Razzak": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "H Das": {
+      "runs_played": 2,
+      "balls_played": 5,
+      "strike_rate": "40.00"
+    },
+    "DR Smith": {
+      "runs_played": 45,
+      "balls_played": 41,
+      "strike_rate": "109.76"
+    },
+    "SD Chitnis": {
+      "runs_played": 18,
+      "balls_played": 10,
+      "strike_rate": "180.00"
+    },
+    "CRD Fernando": {
+      "runs_played": 2,
+      "balls_played": 1,
+      "strike_rate": "200.00"
+    },
+    "VS Yeligati": {
+      "runs_played": 2,
+      "balls_played": 2,
+      "strike_rate": "100.00"
+    },
+    "L Balaji": {
+      "runs_played": 0,
+      "balls_played": 5,
+      "strike_rate": "0.00"
+    },
+    "A Mukund": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "RR Powar": {
+      "runs_played": 28,
+      "balls_played": 21,
+      "strike_rate": "133.33"
+    }
+  },
+  "2009": {
+    "ST Jayasuriya": {
+      "runs_played": 221,
+      "balls_played": 205,
+      "strike_rate": "107.80"
+    },
+    "SR Tendulkar": {
+      "runs_played": 364,
+      "balls_played": 315,
+      "strike_rate": "115.56"
+    },
+    "S Dhawan": {
+      "runs_played": 40,
+      "balls_played": 46,
+      "strike_rate": "86.96"
+    },
+    "JP Duminy": {
+      "runs_played": 372,
+      "balls_played": 334,
+      "strike_rate": "111.38"
+    },
+    "DJ Bravo": {
+      "runs_played": 218,
+      "balls_played": 211,
+      "strike_rate": "103.32"
+    },
+    "AM Nayar": {
+      "runs_played": 193,
+      "balls_played": 155,
+      "strike_rate": "124.52"
+    },
+    "Harbhajan Singh": {
+      "runs_played": 84,
+      "balls_played": 57,
+      "strike_rate": "147.37"
+    },
+    "Z Khan": {
+      "runs_played": 8,
+      "balls_played": 11,
+      "strike_rate": "72.73"
+    },
+    "PA Patel": {
+      "runs_played": 142,
+      "balls_played": 131,
+      "strike_rate": "108.40"
+    },
+    "SK Raina": {
+      "runs_played": 434,
+      "balls_played": 318,
+      "strike_rate": "136.48"
+    },
+    "ML Hayden": {
+      "runs_played": 572,
+      "balls_played": 409,
+      "strike_rate": "139.85"
+    },
+    "A Flintoff": {
+      "runs_played": 62,
+      "balls_played": 57,
+      "strike_rate": "108.77"
+    },
+    "MS Dhoni": {
+      "runs_played": 332,
+      "balls_played": 270,
+      "strike_rate": "122.96"
+    },
+    "JDP Oram": {
+      "runs_played": 88,
+      "balls_played": 94,
+      "strike_rate": "93.62"
+    },
+    "S Badrinath": {
+      "runs_played": 177,
+      "balls_played": 166,
+      "strike_rate": "106.63"
+    },
+    "Joginder Sharma": {
+      "runs_played": 20,
+      "balls_played": 18,
+      "strike_rate": "111.11"
+    },
+    "T Thushara": {
+      "runs_played": 2,
+      "balls_played": 8,
+      "strike_rate": "25.00"
+    },
+    "JD Ryder": {
+      "runs_played": 56,
+      "balls_played": 49,
+      "strike_rate": "114.29"
+    },
+    "LRPL Taylor": {
+      "runs_played": 280,
+      "balls_played": 211,
+      "strike_rate": "132.70"
+    },
+    "KP Pietersen": {
+      "runs_played": 93,
+      "balls_played": 89,
+      "strike_rate": "104.49"
+    },
+    "RV Uthappa": {
+      "runs_played": 175,
+      "balls_played": 177,
+      "strike_rate": "98.87"
+    },
+    "R Dravid": {
+      "runs_played": 271,
+      "balls_played": 239,
+      "strike_rate": "113.39"
+    },
+    "V Kohli": {
+      "runs_played": 246,
+      "balls_played": 225,
+      "strike_rate": "109.33"
+    },
+    "B Akhil": {
+      "runs_played": 17,
+      "balls_played": 16,
+      "strike_rate": "106.25"
+    },
+    "P Kumar": {
+      "runs_played": 65,
+      "balls_played": 46,
+      "strike_rate": "141.30"
+    },
+    "R Vinay Kumar": {
+      "runs_played": 47,
+      "balls_played": 44,
+      "strike_rate": "106.82"
+    },
+    "GC Smith": {
+      "runs_played": 212,
+      "balls_played": 222,
+      "strike_rate": "95.50"
+    },
+    "SA Asnodkar": {
+      "runs_played": 98,
+      "balls_played": 98,
+      "strike_rate": "100.00"
+    },
+    "Niraj Patel": {
+      "runs_played": 18,
+      "balls_played": 41,
+      "strike_rate": "43.90"
+    },
+    "T Henderson": {
+      "runs_played": 11,
+      "balls_played": 16,
+      "strike_rate": "68.75"
+    },
+    "YK Pathan": {
+      "runs_played": 261,
+      "balls_played": 192,
+      "strike_rate": "135.94"
+    },
+    "AD Mascarenhas": {
+      "runs_played": 39,
+      "balls_played": 39,
+      "strike_rate": "100.00"
+    },
+    "RA Jadeja": {
+      "runs_played": 295,
+      "balls_played": 276,
+      "strike_rate": "106.88"
+    },
+    "SK Warne": {
+      "runs_played": 108,
+      "balls_played": 118,
+      "strike_rate": "91.53"
+    },
+    "M Rawat": {
+      "runs_played": 16,
+      "balls_played": 20,
+      "strike_rate": "80.00"
+    },
+    "MM Patel": {
+      "runs_played": 33,
+      "balls_played": 26,
+      "strike_rate": "126.92"
+    },
+    "Kamran Khan": {
+      "runs_played": 3,
+      "balls_played": 5,
+      "strike_rate": "60.00"
+    },
+    "RS Bopara": {
+      "runs_played": 138,
+      "balls_played": 124,
+      "strike_rate": "111.29"
+    },
+    "K Goel": {
+      "runs_played": 124,
+      "balls_played": 140,
+      "strike_rate": "88.57"
+    },
+    "KC Sangakkara": {
+      "runs_played": 332,
+      "balls_played": 332,
+      "strike_rate": "100.00"
+    },
+    "Yuvraj Singh": {
+      "runs_played": 340,
+      "balls_played": 317,
+      "strike_rate": "107.26"
+    },
+    "DPMD Jayawardene": {
+      "runs_played": 219,
+      "balls_played": 172,
+      "strike_rate": "127.33"
+    },
+    "IK Pathan": {
+      "runs_played": 196,
+      "balls_played": 164,
+      "strike_rate": "119.51"
+    },
+    "G Gambhir": {
+      "runs_played": 286,
+      "balls_played": 283,
+      "strike_rate": "101.06"
+    },
+    "V Sehwag": {
+      "runs_played": 198,
+      "balls_played": 146,
+      "strike_rate": "135.62"
+    },
+    "BB McCullum": {
+      "runs_played": 286,
+      "balls_played": 248,
+      "strike_rate": "115.32"
+    },
+    "CH Gayle": {
+      "runs_played": 184,
+      "balls_played": 159,
+      "strike_rate": "115.72"
+    },
+    "SC Ganguly": {
+      "runs_played": 189,
+      "balls_played": 213,
+      "strike_rate": "88.73"
+    },
+    "BJ Hodge": {
+      "runs_played": 365,
+      "balls_played": 317,
+      "strike_rate": "115.14"
+    },
+    "A Chopra": {
+      "runs_played": 11,
+      "balls_played": 20,
+      "strike_rate": "55.00"
+    },
+    "LR Shukla": {
+      "runs_played": 83,
+      "balls_played": 86,
+      "strike_rate": "96.51"
+    },
+    "MC Henriques": {
+      "runs_played": 38,
+      "balls_played": 40,
+      "strike_rate": "95.00"
+    },
+    "AB Agarkar": {
+      "runs_played": 66,
+      "balls_played": 58,
+      "strike_rate": "113.79"
+    },
+    "M Kartik": {
+      "runs_played": 21,
+      "balls_played": 20,
+      "strike_rate": "105.00"
+    },
+    "I Sharma": {
+      "runs_played": 16,
+      "balls_played": 13,
+      "strike_rate": "123.08"
+    },
+    "AB Dinda": {
+      "runs_played": 2,
+      "balls_played": 3,
+      "strike_rate": "66.67"
+    },
+    "AC Gilchrist": {
+      "runs_played": 495,
+      "balls_played": 337,
+      "strike_rate": "146.88"
+    },
+    "HH Gibbs": {
+      "runs_played": 371,
+      "balls_played": 344,
+      "strike_rate": "107.85"
+    },
+    "VVS Laxman": {
+      "runs_played": 19,
+      "balls_played": 33,
+      "strike_rate": "57.58"
+    },
+    "RG Sharma": {
+      "runs_played": 362,
+      "balls_played": 323,
+      "strike_rate": "112.07"
+    },
+    "JA Morkel": {
+      "runs_played": 97,
+      "balls_played": 73,
+      "strike_rate": "132.88"
+    },
+    "JH Kallis": {
+      "runs_played": 361,
+      "balls_played": 349,
+      "strike_rate": "103.44"
+    },
+    "R Bishnoi": {
+      "runs_played": 19,
+      "balls_played": 17,
+      "strike_rate": "111.76"
+    },
+    "DW Steyn": {
+      "runs_played": 0,
+      "balls_played": 3,
+      "strike_rate": "0.00"
+    },
+    "A Kumble": {
+      "runs_played": 16,
+      "balls_played": 20,
+      "strike_rate": "80.00"
+    },
+    "T Kohli": {
+      "runs_played": 1,
+      "balls_played": 4,
+      "strike_rate": "25.00"
+    },
+    "PP Chawla": {
+      "runs_played": 31,
+      "balls_played": 39,
+      "strike_rate": "79.49"
+    },
+    "SB Styris": {
+      "runs_played": 14,
+      "balls_played": 8,
+      "strike_rate": "175.00"
+    },
+    "Y Venugopal Rao": {
+      "runs_played": 124,
+      "balls_played": 118,
+      "strike_rate": "105.08"
+    },
+    "DB Ravi Teja": {
+      "runs_played": 65,
+      "balls_played": 71,
+      "strike_rate": "91.55"
+    },
+    "FH Edwards": {
+      "runs_played": 4,
+      "balls_played": 5,
+      "strike_rate": "80.00"
+    },
+    "KV Sharma": {
+      "runs_played": 1,
+      "balls_played": 3,
+      "strike_rate": "33.33"
+    },
+    "AB de Villiers": {
+      "runs_played": 465,
+      "balls_played": 359,
+      "strike_rate": "129.53"
+    },
+    "TM Dilshan": {
+      "runs_played": 418,
+      "balls_played": 357,
+      "strike_rate": "117.09"
+    },
+    "KD Karthik": {
+      "runs_played": 288,
+      "balls_played": 224,
+      "strike_rate": "128.57"
+    },
+    "MK Tiwary": {
+      "runs_played": 9,
+      "balls_played": 13,
+      "strike_rate": "69.23"
+    },
+    "MS Gony": {
+      "runs_played": 13,
+      "balls_played": 7,
+      "strike_rate": "185.71"
+    },
+    "M Muralitharan": {
+      "runs_played": 8,
+      "balls_played": 8,
+      "strike_rate": "100.00"
+    },
+    "PC Valthaty": {
+      "runs_played": 6,
+      "balls_played": 12,
+      "strike_rate": "50.00"
+    },
+    "RJ Quiney": {
+      "runs_played": 103,
+      "balls_played": 105,
+      "strike_rate": "98.10"
+    },
+    "AS Raut": {
+      "runs_played": 78,
+      "balls_played": 65,
+      "strike_rate": "120.00"
+    },
+    "SB Bangar": {
+      "runs_played": 2,
+      "balls_played": 9,
+      "strike_rate": "22.22"
+    },
+    "Yashpal Singh": {
+      "runs_played": 47,
+      "balls_played": 67,
+      "strike_rate": "70.15"
+    },
+    "Pankaj Singh": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "DR Smith": {
+      "runs_played": 215,
+      "balls_played": 134,
+      "strike_rate": "160.45"
+    },
+    "RP Singh": {
+      "runs_played": 8,
+      "balls_played": 17,
+      "strike_rate": "47.06"
+    },
+    "PP Ojha": {
+      "runs_played": 1,
+      "balls_played": 7,
+      "strike_rate": "14.29"
+    },
+    "PR Shah": {
+      "runs_played": 53,
+      "balls_played": 54,
+      "strike_rate": "98.15"
+    },
+    "MV Boucher": {
+      "runs_played": 150,
+      "balls_played": 121,
+      "strike_rate": "123.97"
+    },
+    "M Manhas": {
+      "runs_played": 75,
+      "balls_played": 65,
+      "strike_rate": "115.38"
+    },
+    "WA Mota": {
+      "runs_played": 30,
+      "balls_played": 48,
+      "strike_rate": "62.50"
+    },
+    "AA Bilakhia": {
+      "runs_played": 67,
+      "balls_played": 84,
+      "strike_rate": "79.76"
+    },
+    "SS Tiwary": {
+      "runs_played": 13,
+      "balls_played": 12,
+      "strike_rate": "108.33"
+    },
+    "AN Ghosh": {
+      "runs_played": 7,
+      "balls_played": 8,
+      "strike_rate": "87.50"
+    },
+    "BAW Mendis": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "DL Vettori": {
+      "runs_played": 34,
+      "balls_played": 32,
+      "strike_rate": "106.25"
+    },
+    "A Mishra": {
+      "runs_played": 26,
+      "balls_played": 20,
+      "strike_rate": "130.00"
+    },
+    "PJ Sangwan": {
+      "runs_played": 6,
+      "balls_played": 10,
+      "strike_rate": "60.00"
+    },
+    "MN van Wyk": {
+      "runs_played": 167,
+      "balls_played": 135,
+      "strike_rate": "123.70"
+    },
+    "WP Saha": {
+      "runs_played": 72,
+      "balls_played": 41,
+      "strike_rate": "175.61"
+    },
+    "SP Goswami": {
+      "runs_played": 53,
+      "balls_played": 64,
+      "strike_rate": "82.81"
+    },
+    "RE van der Merwe": {
+      "runs_played": 122,
+      "balls_played": 101,
+      "strike_rate": "120.79"
+    },
+    "MK Pandey": {
+      "runs_played": 168,
+      "balls_played": 120,
+      "strike_rate": "140.00"
+    },
+    "RR Powar": {
+      "runs_played": 23,
+      "balls_played": 22,
+      "strike_rate": "104.55"
+    },
+    "TL Suman": {
+      "runs_played": 237,
+      "balls_played": 193,
+      "strike_rate": "122.80"
+    },
+    "Shoaib Ahmed": {
+      "runs_played": 1,
+      "balls_played": 6,
+      "strike_rate": "16.67"
+    },
+    "SK Trivedi": {
+      "runs_played": 9,
+      "balls_played": 19,
+      "strike_rate": "47.37"
+    },
+    "GR Napier": {
+      "runs_played": 15,
+      "balls_played": 16,
+      "strike_rate": "93.75"
+    },
+    "AM Rahane": {
+      "runs_played": 144,
+      "balls_played": 128,
+      "strike_rate": "112.50"
+    },
+    "KP Appanna": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "SM Katich": {
+      "runs_played": 145,
+      "balls_played": 119,
+      "strike_rate": "121.85"
+    },
+    "TM Srivastava": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "LA Carseldine": {
+      "runs_played": 81,
+      "balls_played": 71,
+      "strike_rate": "114.08"
+    },
+    "NV Ojha": {
+      "runs_played": 168,
+      "balls_played": 145,
+      "strike_rate": "115.86"
+    },
+    "SM Harwood": {
+      "runs_played": 9,
+      "balls_played": 14,
+      "strike_rate": "64.29"
+    },
+    "M Vijay": {
+      "runs_played": 60,
+      "balls_played": 69,
+      "strike_rate": "86.96"
+    },
+    "SB Jakati": {
+      "runs_played": 20,
+      "balls_played": 16,
+      "strike_rate": "125.00"
+    },
+    "L Balaji": {
+      "runs_played": 4,
+      "balls_played": 10,
+      "strike_rate": "40.00"
+    },
+    "DA Warner": {
+      "runs_played": 163,
+      "balls_played": 137,
+      "strike_rate": "118.98"
+    },
+    "R Bhatia": {
+      "runs_played": 8,
+      "balls_played": 18,
+      "strike_rate": "44.44"
+    },
+    "S Sohal": {
+      "runs_played": 115,
+      "balls_played": 102,
+      "strike_rate": "112.75"
+    },
+    "W Jaffer": {
+      "runs_played": 15,
+      "balls_played": 19,
+      "strike_rate": "78.95"
+    },
+    "RJ Harris": {
+      "runs_played": 21,
+      "balls_played": 18,
+      "strike_rate": "116.67"
+    },
+    "S Sreesanth": {
+      "runs_played": 5,
+      "balls_played": 19,
+      "strike_rate": "26.32"
+    },
+    "RR Raje": {
+      "runs_played": 12,
+      "balls_played": 9,
+      "strike_rate": "133.33"
+    },
+    "DS Kulkarni": {
+      "runs_played": 9,
+      "balls_played": 18,
+      "strike_rate": "50.00"
+    },
+    "D du Preez": {
+      "runs_played": 10,
+      "balls_played": 13,
+      "strike_rate": "76.92"
+    },
+    "L Ronchi": {
+      "runs_played": 0,
+      "balls_played": 3,
+      "strike_rate": "0.00"
+    },
+    "A Symonds": {
+      "runs_played": 249,
+      "balls_played": 171,
+      "strike_rate": "145.61"
+    },
+    "B Lee": {
+      "runs_played": 28,
+      "balls_played": 35,
+      "strike_rate": "80.00"
+    },
+    "WPUJC Vaas": {
+      "runs_played": 30,
+      "balls_played": 21,
+      "strike_rate": "142.86"
+    },
+    "M Morkel": {
+      "runs_played": 8,
+      "balls_played": 9,
+      "strike_rate": "88.89"
+    },
+    "DJ Hussey": {
+      "runs_played": 98,
+      "balls_played": 61,
+      "strike_rate": "160.66"
+    },
+    "AD Mathews": {
+      "runs_played": 16,
+      "balls_played": 14,
+      "strike_rate": "114.29"
+    },
+    "LA Pomersbach": {
+      "runs_played": 41,
+      "balls_played": 49,
+      "strike_rate": "83.67"
+    },
+    "SD Chitnis": {
+      "runs_played": 6,
+      "balls_played": 9,
+      "strike_rate": "66.67"
+    },
+    "J Botha": {
+      "runs_played": 47,
+      "balls_played": 42,
+      "strike_rate": "111.90"
+    },
+    "YV Takawale": {
+      "runs_played": 18,
+      "balls_played": 22,
+      "strike_rate": "81.82"
+    },
+    "C Nanda": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "SL Malinga": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "MF Maharoof": {
+      "runs_played": 21,
+      "balls_played": 21,
+      "strike_rate": "100.00"
+    },
+    "A Nehra": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "Mashrafe Mortaza": {
+      "runs_played": 2,
+      "balls_played": 2,
+      "strike_rate": "100.00"
+    },
+    "A Singh": {
+      "runs_played": 1,
+      "balls_played": 3,
+      "strike_rate": "33.33"
+    },
+    "GJ Bailey": {
+      "runs_played": 45,
+      "balls_played": 40,
+      "strike_rate": "112.50"
+    },
+    "AB McDonald": {
+      "runs_played": 3,
+      "balls_played": 4,
+      "strike_rate": "75.00"
+    },
+    "Y Nagar": {
+      "runs_played": 20,
+      "balls_played": 22,
+      "strike_rate": "90.91"
+    },
+    "SS Shaikh": {
+      "runs_played": 6,
+      "balls_played": 7,
+      "strike_rate": "85.71"
+    },
+    "R Ashwin": {
+      "runs_played": 8,
+      "balls_played": 15,
+      "strike_rate": "53.33"
+    },
+    "Mohammad Ashraful": {
+      "runs_played": 2,
+      "balls_played": 12,
+      "strike_rate": "16.67"
+    }
+  },
+  "2010": {
+    "MK Tiwary": {
+      "runs_played": 237,
+      "balls_played": 192,
+      "strike_rate": "123.44"
+    },
+    "SC Ganguly": {
+      "runs_played": 493,
+      "balls_played": 440,
+      "strike_rate": "112.05"
+    },
+    "CA Pujara": {
+      "runs_played": 122,
+      "balls_played": 119,
+      "strike_rate": "102.52"
+    },
+    "BJ Hodge": {
+      "runs_played": 99,
+      "balls_played": 95,
+      "strike_rate": "104.21"
+    },
+    "OA Shah": {
+      "runs_played": 115,
+      "balls_played": 96,
+      "strike_rate": "119.79"
+    },
+    "AD Mathews": {
+      "runs_played": 233,
+      "balls_played": 197,
+      "strike_rate": "118.27"
+    },
+    "AC Gilchrist": {
+      "runs_played": 289,
+      "balls_played": 200,
+      "strike_rate": "144.50"
+    },
+    "VVS Laxman": {
+      "runs_played": 64,
+      "balls_played": 62,
+      "strike_rate": "103.23"
+    },
+    "HH Gibbs": {
+      "runs_played": 267,
+      "balls_played": 243,
+      "strike_rate": "109.88"
+    },
+    "A Symonds": {
+      "runs_played": 429,
+      "balls_played": 356,
+      "strike_rate": "120.51"
+    },
+    "RG Sharma": {
+      "runs_played": 404,
+      "balls_played": 310,
+      "strike_rate": "130.32"
+    },
+    "Anirudh Singh": {
+      "runs_played": 63,
+      "balls_played": 69,
+      "strike_rate": "91.30"
+    },
+    "TL Suman": {
+      "runs_played": 307,
+      "balls_played": 264,
+      "strike_rate": "116.29"
+    },
+    "WPUJC Vaas": {
+      "runs_played": 30,
+      "balls_played": 34,
+      "strike_rate": "88.24"
+    },
+    "Jaskaran Singh": {
+      "runs_played": 8,
+      "balls_played": 11,
+      "strike_rate": "72.73"
+    },
+    "ST Jayasuriya": {
+      "runs_played": 33,
+      "balls_played": 35,
+      "strike_rate": "94.29"
+    },
+    "SR Tendulkar": {
+      "runs_played": 618,
+      "balls_played": 489,
+      "strike_rate": "126.38"
+    },
+    "AP Tare": {
+      "runs_played": 50,
+      "balls_played": 41,
+      "strike_rate": "121.95"
+    },
+    "SS Tiwary": {
+      "runs_played": 419,
+      "balls_played": 319,
+      "strike_rate": "131.35"
+    },
+    "AT Rayudu": {
+      "runs_played": 356,
+      "balls_played": 258,
+      "strike_rate": "137.98"
+    },
+    "R Sathish": {
+      "runs_played": 112,
+      "balls_played": 98,
+      "strike_rate": "114.29"
+    },
+    "Harbhajan Singh": {
+      "runs_played": 105,
+      "balls_played": 64,
+      "strike_rate": "164.06"
+    },
+    "R McLaren": {
+      "runs_played": 66,
+      "balls_played": 71,
+      "strike_rate": "92.96"
+    },
+    "GC Smith": {
+      "runs_played": 44,
+      "balls_played": 40,
+      "strike_rate": "110.00"
+    },
+    "NV Ojha": {
+      "runs_played": 377,
+      "balls_played": 294,
+      "strike_rate": "128.23"
+    },
+    "AA Jhunjhunwala": {
+      "runs_played": 183,
+      "balls_played": 172,
+      "strike_rate": "106.40"
+    },
+    "YK Pathan": {
+      "runs_played": 333,
+      "balls_played": 210,
+      "strike_rate": "158.57"
+    },
+    "P Dogra": {
+      "runs_played": 107,
+      "balls_played": 108,
+      "strike_rate": "99.07"
+    },
+    "AD Mascarenhas": {
+      "runs_played": 12,
+      "balls_played": 11,
+      "strike_rate": "109.09"
+    },
+    "A Uniyal": {
+      "runs_played": 4,
+      "balls_played": 7,
+      "strike_rate": "57.14"
+    },
+    "SK Warne": {
+      "runs_played": 10,
+      "balls_played": 21,
+      "strike_rate": "47.62"
+    },
+    "RS Bopara": {
+      "runs_played": 248,
+      "balls_played": 223,
+      "strike_rate": "111.21"
+    },
+    "MS Bisla": {
+      "runs_played": 218,
+      "balls_played": 189,
+      "strike_rate": "115.34"
+    },
+    "KC Sangakkara": {
+      "runs_played": 357,
+      "balls_played": 260,
+      "strike_rate": "137.31"
+    },
+    "Yuvraj Singh": {
+      "runs_played": 259,
+      "balls_played": 206,
+      "strike_rate": "125.73"
+    },
+    "DPMD Jayawardene": {
+      "runs_played": 445,
+      "balls_played": 312,
+      "strike_rate": "142.63"
+    },
+    "IK Pathan": {
+      "runs_played": 276,
+      "balls_played": 188,
+      "strike_rate": "146.81"
+    },
+    "M Kaif": {
+      "runs_played": 28,
+      "balls_played": 31,
+      "strike_rate": "90.32"
+    },
+    "PP Chawla": {
+      "runs_played": 62,
+      "balls_played": 63,
+      "strike_rate": "98.41"
+    },
+    "RR Powar": {
+      "runs_played": 5,
+      "balls_played": 8,
+      "strike_rate": "62.50"
+    },
+    "S Sreesanth": {
+      "runs_played": 27,
+      "balls_played": 22,
+      "strike_rate": "122.73"
+    },
+    "YA Abdulla": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "G Gambhir": {
+      "runs_played": 277,
+      "balls_played": 223,
+      "strike_rate": "124.22"
+    },
+    "V Sehwag": {
+      "runs_played": 356,
+      "balls_played": 227,
+      "strike_rate": "156.83"
+    },
+    "TM Dilshan": {
+      "runs_played": 44,
+      "balls_played": 55,
+      "strike_rate": "80.00"
+    },
+    "AB de Villiers": {
+      "runs_played": 111,
+      "balls_played": 123,
+      "strike_rate": "90.24"
+    },
+    "KD Karthik": {
+      "runs_played": 278,
+      "balls_played": 242,
+      "strike_rate": "114.88"
+    },
+    "M Manhas": {
+      "runs_played": 157,
+      "balls_played": 151,
+      "strike_rate": "103.97"
+    },
+    "MF Maharoof": {
+      "runs_played": 31,
+      "balls_played": 24,
+      "strike_rate": "129.17"
+    },
+    "JH Kallis": {
+      "runs_played": 572,
+      "balls_played": 517,
+      "strike_rate": "110.64"
+    },
+    "SP Goswami": {
+      "runs_played": 8,
+      "balls_played": 10,
+      "strike_rate": "80.00"
+    },
+    "MK Pandey": {
+      "runs_played": 249,
+      "balls_played": 233,
+      "strike_rate": "106.87"
+    },
+    "V Kohli": {
+      "runs_played": 307,
+      "balls_played": 216,
+      "strike_rate": "142.13"
+    },
+    "EJG Morgan": {
+      "runs_played": 35,
+      "balls_played": 31,
+      "strike_rate": "112.90"
+    },
+    "R Dravid": {
+      "runs_played": 256,
+      "balls_played": 203,
+      "strike_rate": "126.11"
+    },
+    "RV Uthappa": {
+      "runs_played": 374,
+      "balls_played": 224,
+      "strike_rate": "166.96"
+    },
+    "RE van der Merwe": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "P Kumar": {
+      "runs_played": 4,
+      "balls_played": 8,
+      "strike_rate": "50.00"
+    },
+    "M Vijay": {
+      "runs_played": 458,
+      "balls_played": 305,
+      "strike_rate": "150.16"
+    },
+    "ML Hayden": {
+      "runs_played": 346,
+      "balls_played": 295,
+      "strike_rate": "117.29"
+    },
+    "SK Raina": {
+      "runs_played": 528,
+      "balls_played": 387,
+      "strike_rate": "136.43"
+    },
+    "S Badrinath": {
+      "runs_played": 356,
+      "balls_played": 310,
+      "strike_rate": "114.84"
+    },
+    "JM Kemp": {
+      "runs_played": 26,
+      "balls_played": 25,
+      "strike_rate": "104.00"
+    },
+    "MS Dhoni": {
+      "runs_played": 287,
+      "balls_played": 215,
+      "strike_rate": "133.49"
+    },
+    "JA Morkel": {
+      "runs_played": 199,
+      "balls_played": 135,
+      "strike_rate": "147.41"
+    },
+    "R Ashwin": {
+      "runs_played": 30,
+      "balls_played": 40,
+      "strike_rate": "75.00"
+    },
+    "L Balaji": {
+      "runs_played": 18,
+      "balls_played": 20,
+      "strike_rate": "90.00"
+    },
+    "M Muralitharan": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "S Tyagi": {
+      "runs_played": 3,
+      "balls_played": 4,
+      "strike_rate": "75.00"
+    },
+    "SA Asnodkar": {
+      "runs_played": 5,
+      "balls_played": 4,
+      "strike_rate": "125.00"
+    },
+    "WP Saha": {
+      "runs_played": 67,
+      "balls_played": 53,
+      "strike_rate": "126.42"
+    },
+    "LR Shukla": {
+      "runs_played": 36,
+      "balls_played": 27,
+      "strike_rate": "133.33"
+    },
+    "RS Gavaskar": {
+      "runs_played": 2,
+      "balls_played": 8,
+      "strike_rate": "25.00"
+    },
+    "SE Bond": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "M Kartik": {
+      "runs_played": 22,
+      "balls_played": 22,
+      "strike_rate": "100.00"
+    },
+    "I Sharma": {
+      "runs_played": 6,
+      "balls_played": 17,
+      "strike_rate": "35.29"
+    },
+    "KA Pollard": {
+      "runs_played": 273,
+      "balls_played": 152,
+      "strike_rate": "179.61"
+    },
+    "DJ Bravo": {
+      "runs_played": 61,
+      "balls_played": 53,
+      "strike_rate": "115.09"
+    },
+    "A Mishra": {
+      "runs_played": 39,
+      "balls_played": 54,
+      "strike_rate": "72.22"
+    },
+    "PJ Sangwan": {
+      "runs_played": 10,
+      "balls_played": 15,
+      "strike_rate": "66.67"
+    },
+    "S Ladda": {
+      "runs_played": 0,
+      "balls_played": 10,
+      "strike_rate": "0.00"
+    },
+    "DP Nannes": {
+      "runs_played": 4,
+      "balls_played": 13,
+      "strike_rate": "30.77"
+    },
+    "MJ Lumb": {
+      "runs_played": 278,
+      "balls_played": 196,
+      "strike_rate": "141.84"
+    },
+    "DR Martyn": {
+      "runs_played": 19,
+      "balls_played": 26,
+      "strike_rate": "73.08"
+    },
+    "S Narwal": {
+      "runs_played": 14,
+      "balls_played": 13,
+      "strike_rate": "107.69"
+    },
+    "M Morkel": {
+      "runs_played": 9,
+      "balls_played": 16,
+      "strike_rate": "56.25"
+    },
+    "MM Patel": {
+      "runs_played": 4,
+      "balls_played": 5,
+      "strike_rate": "80.00"
+    },
+    "SK Trivedi": {
+      "runs_played": 20,
+      "balls_played": 15,
+      "strike_rate": "133.33"
+    },
+    "DA Warner": {
+      "runs_played": 282,
+      "balls_played": 195,
+      "strike_rate": "144.62"
+    },
+    "R Bhatia": {
+      "runs_played": 24,
+      "balls_played": 17,
+      "strike_rate": "141.18"
+    },
+    "PA Patel": {
+      "runs_played": 72,
+      "balls_played": 83,
+      "strike_rate": "86.75"
+    },
+    "RP Singh": {
+      "runs_played": 9,
+      "balls_played": 20,
+      "strike_rate": "45.00"
+    },
+    "AB Barath": {
+      "runs_played": 42,
+      "balls_played": 43,
+      "strike_rate": "97.67"
+    },
+    "Bipul Sharma": {
+      "runs_played": 9,
+      "balls_played": 7,
+      "strike_rate": "128.57"
+    },
+    "FY Fazal": {
+      "runs_played": 164,
+      "balls_played": 160,
+      "strike_rate": "102.50"
+    },
+    "AC Voges": {
+      "runs_played": 181,
+      "balls_played": 143,
+      "strike_rate": "126.57"
+    },
+    "Z Khan": {
+      "runs_played": 24,
+      "balls_played": 13,
+      "strike_rate": "184.62"
+    },
+    "MD Mishra": {
+      "runs_played": 166,
+      "balls_played": 149,
+      "strike_rate": "111.41"
+    },
+    "Y Venugopal Rao": {
+      "runs_played": 34,
+      "balls_played": 44,
+      "strike_rate": "77.27"
+    },
+    "MC Henriques": {
+      "runs_played": 11,
+      "balls_played": 5,
+      "strike_rate": "220.00"
+    },
+    "Y Nagar": {
+      "runs_played": 1,
+      "balls_played": 7,
+      "strike_rate": "14.29"
+    },
+    "UT Yadav": {
+      "runs_played": 3,
+      "balls_played": 4,
+      "strike_rate": "75.00"
+    },
+    "J Theron": {
+      "runs_played": 2,
+      "balls_played": 6,
+      "strike_rate": "33.33"
+    },
+    "MS Gony": {
+      "runs_played": 2,
+      "balls_played": 7,
+      "strike_rate": "28.57"
+    },
+    "CH Gayle": {
+      "runs_played": 292,
+      "balls_played": 197,
+      "strike_rate": "148.22"
+    },
+    "S Dhawan": {
+      "runs_played": 191,
+      "balls_played": 180,
+      "strike_rate": "106.11"
+    },
+    "MV Boucher": {
+      "runs_played": 13,
+      "balls_played": 10,
+      "strike_rate": "130.00"
+    },
+    "GJ Bailey": {
+      "runs_played": 18,
+      "balls_played": 27,
+      "strike_rate": "66.67"
+    },
+    "SJ Srivastava": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "R Sharma": {
+      "runs_played": 29,
+      "balls_played": 26,
+      "strike_rate": "111.54"
+    },
+    "Mandeep Singh": {
+      "runs_played": 4,
+      "balls_played": 11,
+      "strike_rate": "36.36"
+    },
+    "DJ Hussey": {
+      "runs_played": 94,
+      "balls_played": 89,
+      "strike_rate": "105.62"
+    },
+    "K Goel": {
+      "runs_played": 18,
+      "balls_played": 20,
+      "strike_rate": "90.00"
+    },
+    "B Lee": {
+      "runs_played": 11,
+      "balls_played": 11,
+      "strike_rate": "100.00"
+    },
+    "KM Jadhav": {
+      "runs_played": 76,
+      "balls_played": 60,
+      "strike_rate": "126.67"
+    },
+    "AB McDonald": {
+      "runs_played": 65,
+      "balls_played": 54,
+      "strike_rate": "120.37"
+    },
+    "R Vinay Kumar": {
+      "runs_played": 27,
+      "balls_played": 35,
+      "strike_rate": "77.14"
+    },
+    "DW Steyn": {
+      "runs_played": 13,
+      "balls_played": 17,
+      "strike_rate": "76.47"
+    },
+    "A Kumble": {
+      "runs_played": 6,
+      "balls_played": 12,
+      "strike_rate": "50.00"
+    },
+    "SW Tait": {
+      "runs_played": 12,
+      "balls_played": 13,
+      "strike_rate": "92.31"
+    },
+    "KB Arun Karthik": {
+      "runs_played": 3,
+      "balls_played": 5,
+      "strike_rate": "60.00"
+    },
+    "T Thushara": {
+      "runs_played": 10,
+      "balls_played": 11,
+      "strike_rate": "90.91"
+    },
+    "KAJ Roach": {
+      "runs_played": 10,
+      "balls_played": 9,
+      "strike_rate": "111.11"
+    },
+    "PD Collingwood": {
+      "runs_played": 203,
+      "balls_played": 159,
+      "strike_rate": "127.67"
+    },
+    "AB Agarkar": {
+      "runs_played": 40,
+      "balls_played": 30,
+      "strike_rate": "133.33"
+    },
+    "CK Langeveldt": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "SE Marsh": {
+      "runs_played": 147,
+      "balls_played": 117,
+      "strike_rate": "125.64"
+    },
+    "VS Malik": {
+      "runs_played": 6,
+      "balls_played": 5,
+      "strike_rate": "120.00"
+    },
+    "KP Pietersen": {
+      "runs_played": 236,
+      "balls_played": 159,
+      "strike_rate": "148.43"
+    },
+    "CL White": {
+      "runs_played": 48,
+      "balls_played": 33,
+      "strike_rate": "145.45"
+    },
+    "SR Watson": {
+      "runs_played": 185,
+      "balls_played": 117,
+      "strike_rate": "158.12"
+    },
+    "AS Raut": {
+      "runs_played": 56,
+      "balls_played": 48,
+      "strike_rate": "116.67"
+    },
+    "RJ Harris": {
+      "runs_played": 45,
+      "balls_played": 39,
+      "strike_rate": "115.38"
+    },
+    "PP Ojha": {
+      "runs_played": 3,
+      "balls_played": 8,
+      "strike_rate": "37.50"
+    },
+    "DL Vettori": {
+      "runs_played": 33,
+      "balls_played": 28,
+      "strike_rate": "117.86"
+    },
+    "LRPL Taylor": {
+      "runs_played": 88,
+      "balls_played": 77,
+      "strike_rate": "114.29"
+    },
+    "A Mithun": {
+      "runs_played": 5,
+      "balls_played": 4,
+      "strike_rate": "125.00"
+    },
+    "KP Appanna": {
+      "runs_played": 2,
+      "balls_played": 3,
+      "strike_rate": "66.67"
+    },
+    "AP Dole": {
+      "runs_played": 34,
+      "balls_played": 23,
+      "strike_rate": "147.83"
+    },
+    "DR Smith": {
+      "runs_played": 22,
+      "balls_played": 25,
+      "strike_rate": "88.00"
+    },
+    "AA Bilakhia": {
+      "runs_played": 2,
+      "balls_played": 4,
+      "strike_rate": "50.00"
+    },
+    "MEK Hussey": {
+      "runs_played": 37,
+      "balls_played": 44,
+      "strike_rate": "84.09"
+    },
+    "AN Ahmed": {
+      "runs_played": 4,
+      "balls_played": 8,
+      "strike_rate": "50.00"
+    },
+    "BB McCullum": {
+      "runs_played": 114,
+      "balls_played": 117,
+      "strike_rate": "97.44"
+    },
+    "JP Duminy": {
+      "runs_played": 157,
+      "balls_played": 134,
+      "strike_rate": "117.16"
+    },
+    "RS Sodhi": {
+      "runs_played": 4,
+      "balls_played": 2,
+      "strike_rate": "200.00"
+    },
+    "DE Bollinger": {
+      "runs_played": 18,
+      "balls_played": 17,
+      "strike_rate": "105.88"
+    },
+    "AB Dinda": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "BAW Mendis": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "S Sriram": {
+      "runs_played": 27,
+      "balls_played": 31,
+      "strike_rate": "87.10"
+    },
+    "A Nehra": {
+      "runs_played": 23,
+      "balls_played": 20,
+      "strike_rate": "115.00"
+    },
+    "B Sumanth": {
+      "runs_played": 35,
+      "balls_played": 38,
+      "strike_rate": "92.11"
+    },
+    "C Madan": {
+      "runs_played": 15,
+      "balls_played": 21,
+      "strike_rate": "71.43"
+    },
+    "Iqbal Abdulla": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "AG Paunikar": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "MR Marsh": {
+      "runs_played": 28,
+      "balls_played": 31,
+      "strike_rate": "90.32"
+    },
+    "AM Nayar": {
+      "runs_played": 58,
+      "balls_played": 51,
+      "strike_rate": "113.73"
+    },
+    "Pankaj Singh": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "AJ Finch": {
+      "runs_played": 21,
+      "balls_played": 21,
+      "strike_rate": "100.00"
+    },
+    "STR Binny": {
+      "runs_played": 8,
+      "balls_played": 5,
+      "strike_rate": "160.00"
+    },
+    "S Anirudha": {
+      "runs_played": 30,
+      "balls_played": 19,
+      "strike_rate": "157.89"
+    },
+    "Harmeet Singh": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "CRD Fernando": {
+      "runs_played": 2,
+      "balls_played": 2,
+      "strike_rate": "100.00"
+    },
+    "SL Malinga": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    }
+  },
+  "2011": {
+    "S Anirudha": {
+      "runs_played": 83,
+      "balls_played": 78,
+      "strike_rate": "106.41"
+    },
+    "M Vijay": {
+      "runs_played": 434,
+      "balls_played": 349,
+      "strike_rate": "124.36"
+    },
+    "SK Raina": {
+      "runs_played": 438,
+      "balls_played": 335,
+      "strike_rate": "130.75"
+    },
+    "MS Dhoni": {
+      "runs_played": 392,
+      "balls_played": 247,
+      "strike_rate": "158.70"
+    },
+    "JA Morkel": {
+      "runs_played": 138,
+      "balls_played": 108,
+      "strike_rate": "127.78"
+    },
+    "SB Styris": {
+      "runs_played": 5,
+      "balls_played": 2,
+      "strike_rate": "250.00"
+    },
+    "MS Bisla": {
+      "runs_played": 72,
+      "balls_played": 90,
+      "strike_rate": "80.00"
+    },
+    "JH Kallis": {
+      "runs_played": 424,
+      "balls_played": 386,
+      "strike_rate": "109.84"
+    },
+    "YK Pathan": {
+      "runs_played": 283,
+      "balls_played": 205,
+      "strike_rate": "138.05"
+    },
+    "MK Tiwary": {
+      "runs_played": 359,
+      "balls_played": 336,
+      "strike_rate": "106.85"
+    },
+    "EJG Morgan": {
+      "runs_played": 137,
+      "balls_played": 123,
+      "strike_rate": "111.38"
+    },
+    "G Gambhir": {
+      "runs_played": 378,
+      "balls_played": 332,
+      "strike_rate": "113.86"
+    },
+    "LR Shukla": {
+      "runs_played": 14,
+      "balls_played": 10,
+      "strike_rate": "140.00"
+    },
+    "Iqbal Abdulla": {
+      "runs_played": 15,
+      "balls_played": 12,
+      "strike_rate": "125.00"
+    },
+    "R Bhatia": {
+      "runs_played": 25,
+      "balls_played": 23,
+      "strike_rate": "108.70"
+    },
+    "S Dhawan": {
+      "runs_played": 400,
+      "balls_played": 315,
+      "strike_rate": "126.98"
+    },
+    "IR Jaggi": {
+      "runs_played": 28,
+      "balls_played": 38,
+      "strike_rate": "73.68"
+    },
+    "KC Sangakkara": {
+      "runs_played": 358,
+      "balls_played": 298,
+      "strike_rate": "120.13"
+    },
+    "B Chipli": {
+      "runs_played": 207,
+      "balls_played": 172,
+      "strike_rate": "120.35"
+    },
+    "JP Duminy": {
+      "runs_played": 205,
+      "balls_played": 176,
+      "strike_rate": "116.48"
+    },
+    "DT Christian": {
+      "runs_played": 190,
+      "balls_played": 161,
+      "strike_rate": "118.01"
+    },
+    "DB Ravi Teja": {
+      "runs_played": 183,
+      "balls_played": 147,
+      "strike_rate": "124.49"
+    },
+    "DW Steyn": {
+      "runs_played": 36,
+      "balls_played": 37,
+      "strike_rate": "97.30"
+    },
+    "A Mishra": {
+      "runs_played": 68,
+      "balls_played": 52,
+      "strike_rate": "130.77"
+    },
+    "I Sharma": {
+      "runs_played": 4,
+      "balls_played": 5,
+      "strike_rate": "80.00"
+    },
+    "AG Paunikar": {
+      "runs_played": 49,
+      "balls_played": 60,
+      "strike_rate": "81.67"
+    },
+    "R Dravid": {
+      "runs_played": 343,
+      "balls_played": 320,
+      "strike_rate": "107.19"
+    },
+    "J Botha": {
+      "runs_played": 230,
+      "balls_played": 200,
+      "strike_rate": "115.00"
+    },
+    "LRPL Taylor": {
+      "runs_played": 181,
+      "balls_played": 158,
+      "strike_rate": "114.56"
+    },
+    "BB McCullum": {
+      "runs_played": 357,
+      "balls_played": 292,
+      "strike_rate": "122.26"
+    },
+    "VVS Laxman": {
+      "runs_played": 44,
+      "balls_played": 42,
+      "strike_rate": "104.76"
+    },
+    "DPMD Jayawardene": {
+      "runs_played": 299,
+      "balls_played": 272,
+      "strike_rate": "109.93"
+    },
+    "BJ Hodge": {
+      "runs_played": 285,
+      "balls_played": 245,
+      "strike_rate": "116.33"
+    },
+    "RA Jadeja": {
+      "runs_played": 283,
+      "balls_played": 234,
+      "strike_rate": "120.94"
+    },
+    "RV Gomez": {
+      "runs_played": 46,
+      "balls_played": 52,
+      "strike_rate": "88.46"
+    },
+    "PA Patel": {
+      "runs_played": 202,
+      "balls_played": 189,
+      "strike_rate": "106.88"
+    },
+    "MA Agarwal": {
+      "runs_played": 141,
+      "balls_played": 129,
+      "strike_rate": "109.30"
+    },
+    "TM Dilshan": {
+      "runs_played": 226,
+      "balls_played": 185,
+      "strike_rate": "122.16"
+    },
+    "V Kohli": {
+      "runs_played": 557,
+      "balls_played": 473,
+      "strike_rate": "117.76"
+    },
+    "AB de Villiers": {
+      "runs_played": 312,
+      "balls_played": 248,
+      "strike_rate": "125.81"
+    },
+    "SS Tiwary": {
+      "runs_played": 187,
+      "balls_played": 196,
+      "strike_rate": "95.41"
+    },
+    "AUK Pathan": {
+      "runs_played": 33,
+      "balls_played": 18,
+      "strike_rate": "183.33"
+    },
+    "DA Warner": {
+      "runs_played": 324,
+      "balls_played": 281,
+      "strike_rate": "115.30"
+    },
+    "V Sehwag": {
+      "runs_played": 424,
+      "balls_played": 247,
+      "strike_rate": "171.66"
+    },
+    "UBT Chand": {
+      "runs_played": 2,
+      "balls_played": 12,
+      "strike_rate": "16.67"
+    },
+    "AJ Finch": {
+      "runs_played": 47,
+      "balls_played": 51,
+      "strike_rate": "92.16"
+    },
+    "NV Ojha": {
+      "runs_played": 160,
+      "balls_played": 169,
+      "strike_rate": "94.67"
+    },
+    "Y Venugopal Rao": {
+      "runs_played": 336,
+      "balls_played": 292,
+      "strike_rate": "115.07"
+    },
+    "IK Pathan": {
+      "runs_played": 150,
+      "balls_played": 146,
+      "strike_rate": "102.74"
+    },
+    "RE van der Merwe": {
+      "runs_played": 14,
+      "balls_played": 16,
+      "strike_rate": "87.50"
+    },
+    "M Morkel": {
+      "runs_played": 40,
+      "balls_played": 25,
+      "strike_rate": "160.00"
+    },
+    "UT Yadav": {
+      "runs_played": 1,
+      "balls_played": 6,
+      "strike_rate": "16.67"
+    },
+    "AB Dinda": {
+      "runs_played": 0,
+      "balls_played": 5,
+      "strike_rate": "0.00"
+    },
+    "DJ Jacobs": {
+      "runs_played": 92,
+      "balls_played": 91,
+      "strike_rate": "101.10"
+    },
+    "SR Tendulkar": {
+      "runs_played": 553,
+      "balls_played": 511,
+      "strike_rate": "108.22"
+    },
+    "AT Rayudu": {
+      "runs_played": 395,
+      "balls_played": 355,
+      "strike_rate": "111.27"
+    },
+    "RG Sharma": {
+      "runs_played": 372,
+      "balls_played": 304,
+      "strike_rate": "122.37"
+    },
+    "AC Gilchrist": {
+      "runs_played": 383,
+      "balls_played": 309,
+      "strike_rate": "123.95"
+    },
+    "SE Marsh": {
+      "runs_played": 504,
+      "balls_played": 349,
+      "strike_rate": "144.41"
+    },
+    "PC Valthaty": {
+      "runs_played": 463,
+      "balls_played": 351,
+      "strike_rate": "131.91"
+    },
+    "KD Karthik": {
+      "runs_played": 282,
+      "balls_played": 225,
+      "strike_rate": "125.33"
+    },
+    "AM Nayar": {
+      "runs_played": 61,
+      "balls_played": 67,
+      "strike_rate": "91.04"
+    },
+    "Sunny Singh": {
+      "runs_played": 43,
+      "balls_played": 31,
+      "strike_rate": "138.71"
+    },
+    "R McLaren": {
+      "runs_played": 90,
+      "balls_played": 101,
+      "strike_rate": "89.11"
+    },
+    "PP Chawla": {
+      "runs_played": 48,
+      "balls_played": 55,
+      "strike_rate": "87.27"
+    },
+    "P Kumar": {
+      "runs_played": 27,
+      "balls_played": 33,
+      "strike_rate": "81.82"
+    },
+    "NJ Rimmington": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "GC Smith": {
+      "runs_played": 42,
+      "balls_played": 54,
+      "strike_rate": "77.78"
+    },
+    "M Manhas": {
+      "runs_played": 114,
+      "balls_played": 128,
+      "strike_rate": "89.06"
+    },
+    "JD Ryder": {
+      "runs_played": 292,
+      "balls_played": 201,
+      "strike_rate": "145.27"
+    },
+    "RV Uthappa": {
+      "runs_played": 264,
+      "balls_played": 215,
+      "strike_rate": "122.79"
+    },
+    "Yuvraj Singh": {
+      "runs_played": 343,
+      "balls_played": 269,
+      "strike_rate": "127.51"
+    },
+    "AL Menaria": {
+      "runs_played": 180,
+      "balls_played": 158,
+      "strike_rate": "113.92"
+    },
+    "AM Rahane": {
+      "runs_played": 120,
+      "balls_played": 99,
+      "strike_rate": "121.21"
+    },
+    "S Badrinath": {
+      "runs_played": 396,
+      "balls_played": 320,
+      "strike_rate": "123.75"
+    },
+    "R Vinay Kumar": {
+      "runs_played": 50,
+      "balls_played": 48,
+      "strike_rate": "104.17"
+    },
+    "S Sreesanth": {
+      "runs_played": 1,
+      "balls_played": 9,
+      "strike_rate": "11.11"
+    },
+    "RP Singh": {
+      "runs_played": 2,
+      "balls_played": 4,
+      "strike_rate": "50.00"
+    },
+    "MD Mishra": {
+      "runs_played": 67,
+      "balls_played": 60,
+      "strike_rate": "111.67"
+    },
+    "WD Parnell": {
+      "runs_played": 37,
+      "balls_played": 42,
+      "strike_rate": "88.10"
+    },
+    "R Sharma": {
+      "runs_played": 24,
+      "balls_played": 23,
+      "strike_rate": "104.35"
+    },
+    "S Sohal": {
+      "runs_played": 249,
+      "balls_played": 201,
+      "strike_rate": "123.88"
+    },
+    "Z Khan": {
+      "runs_played": 21,
+      "balls_played": 24,
+      "strike_rate": "87.50"
+    },
+    "CA Pujara": {
+      "runs_played": 34,
+      "balls_played": 32,
+      "strike_rate": "106.25"
+    },
+    "JJ van der Wath": {
+      "runs_played": 18,
+      "balls_played": 17,
+      "strike_rate": "105.88"
+    },
+    "R Ninan": {
+      "runs_played": 3,
+      "balls_played": 6,
+      "strike_rate": "50.00"
+    },
+    "DL Vettori": {
+      "runs_played": 23,
+      "balls_played": 30,
+      "strike_rate": "76.67"
+    },
+    "S Aravind": {
+      "runs_played": 13,
+      "balls_played": 10,
+      "strike_rate": "130.00"
+    },
+    "SR Watson": {
+      "runs_played": 330,
+      "balls_played": 256,
+      "strike_rate": "128.91"
+    },
+    "MEK Hussey": {
+      "runs_played": 492,
+      "balls_played": 423,
+      "strike_rate": "116.31"
+    },
+    "MS Gony": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "MS Wade": {
+      "runs_played": 22,
+      "balls_played": 33,
+      "strike_rate": "66.67"
+    },
+    "JR Hopes": {
+      "runs_played": 196,
+      "balls_played": 162,
+      "strike_rate": "120.99"
+    },
+    "FY Fazal": {
+      "runs_played": 19,
+      "balls_played": 19,
+      "strike_rate": "100.00"
+    },
+    "AS Raut": {
+      "runs_played": 60,
+      "balls_played": 59,
+      "strike_rate": "101.69"
+    },
+    "SK Warne": {
+      "runs_played": 10,
+      "balls_played": 20,
+      "strike_rate": "50.00"
+    },
+    "A Singh": {
+      "runs_played": 1,
+      "balls_played": 4,
+      "strike_rate": "25.00"
+    },
+    "SW Tait": {
+      "runs_played": 10,
+      "balls_played": 10,
+      "strike_rate": "100.00"
+    },
+    "SK Trivedi": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "CL White": {
+      "runs_played": 104,
+      "balls_played": 109,
+      "strike_rate": "95.41"
+    },
+    "Y Nagar": {
+      "runs_played": 111,
+      "balls_played": 108,
+      "strike_rate": "102.78"
+    },
+    "TD Paine": {
+      "runs_played": 10,
+      "balls_played": 29,
+      "strike_rate": "34.48"
+    },
+    "M Kartik": {
+      "runs_played": 12,
+      "balls_played": 15,
+      "strike_rate": "80.00"
+    },
+    "SB Wagh": {
+      "runs_played": 2,
+      "balls_played": 3,
+      "strike_rate": "66.67"
+    },
+    "AC Thomas": {
+      "runs_played": 1,
+      "balls_played": 4,
+      "strike_rate": "25.00"
+    },
+    "JEC Franklin": {
+      "runs_played": 107,
+      "balls_played": 80,
+      "strike_rate": "133.75"
+    },
+    "A Symonds": {
+      "runs_played": 135,
+      "balls_played": 143,
+      "strike_rate": "94.41"
+    },
+    "KM Jadhav": {
+      "runs_played": 18,
+      "balls_played": 23,
+      "strike_rate": "78.26"
+    },
+    "RR Powar": {
+      "runs_played": 11,
+      "balls_played": 13,
+      "strike_rate": "84.62"
+    },
+    "Shakib Al Hasan": {
+      "runs_played": 29,
+      "balls_played": 23,
+      "strike_rate": "126.09"
+    },
+    "B Lee": {
+      "runs_played": 5,
+      "balls_played": 9,
+      "strike_rate": "55.56"
+    },
+    "L Balaji": {
+      "runs_played": 4,
+      "balls_played": 2,
+      "strike_rate": "200.00"
+    },
+    "SA Asnodkar": {
+      "runs_played": 9,
+      "balls_played": 9,
+      "strike_rate": "100.00"
+    },
+    "STR Binny": {
+      "runs_played": 37,
+      "balls_played": 31,
+      "strike_rate": "119.35"
+    },
+    "DH Yagnik": {
+      "runs_played": 16,
+      "balls_played": 23,
+      "strike_rate": "69.57"
+    },
+    "R Sathish": {
+      "runs_played": 25,
+      "balls_played": 35,
+      "strike_rate": "71.43"
+    },
+    "KA Pollard": {
+      "runs_played": 146,
+      "balls_played": 141,
+      "strike_rate": "103.55"
+    },
+    "R Ashwin": {
+      "runs_played": 2,
+      "balls_played": 6,
+      "strike_rate": "33.33"
+    },
+    "Joginder Sharma": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "S Randiv": {
+      "runs_played": 2,
+      "balls_played": 4,
+      "strike_rate": "50.00"
+    },
+    "DE Bollinger": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "BJ Haddin": {
+      "runs_played": 18,
+      "balls_played": 11,
+      "strike_rate": "163.64"
+    },
+    "CH Gayle": {
+      "runs_played": 608,
+      "balls_played": 342,
+      "strike_rate": "177.78"
+    },
+    "DJ Hussey": {
+      "runs_played": 64,
+      "balls_played": 65,
+      "strike_rate": "98.46"
+    },
+    "RJ Harris": {
+      "runs_played": 31,
+      "balls_played": 39,
+      "strike_rate": "79.49"
+    },
+    "NLTC Perera": {
+      "runs_played": 23,
+      "balls_played": 29,
+      "strike_rate": "79.31"
+    },
+    "M Muralitharan": {
+      "runs_played": 5,
+      "balls_played": 8,
+      "strike_rate": "62.50"
+    },
+    "MK Pandey": {
+      "runs_played": 246,
+      "balls_played": 233,
+      "strike_rate": "105.58"
+    },
+    "NL McCullum": {
+      "runs_played": 26,
+      "balls_played": 23,
+      "strike_rate": "113.04"
+    },
+    "JE Taylor": {
+      "runs_played": 3,
+      "balls_played": 4,
+      "strike_rate": "75.00"
+    },
+    "A Mithun": {
+      "runs_played": 27,
+      "balls_played": 20,
+      "strike_rate": "135.00"
+    },
+    "J Syed Mohammad": {
+      "runs_played": 15,
+      "balls_played": 13,
+      "strike_rate": "115.38"
+    },
+    "MR Marsh": {
+      "runs_played": 50,
+      "balls_played": 50,
+      "strike_rate": "100.00"
+    },
+    "SP Goswami": {
+      "runs_played": 29,
+      "balls_played": 31,
+      "strike_rate": "93.55"
+    },
+    "RN ten Doeschate": {
+      "runs_played": 107,
+      "balls_played": 76,
+      "strike_rate": "140.79"
+    },
+    "TR Birt": {
+      "runs_played": 75,
+      "balls_played": 59,
+      "strike_rate": "127.12"
+    },
+    "Harbhajan Singh": {
+      "runs_played": 103,
+      "balls_played": 74,
+      "strike_rate": "139.19"
+    },
+    "SL Malinga": {
+      "runs_played": 8,
+      "balls_played": 9,
+      "strike_rate": "88.89"
+    },
+    "AG Murtaza": {
+      "runs_played": 2,
+      "balls_played": 5,
+      "strike_rate": "40.00"
+    },
+    "M Kaif": {
+      "runs_played": 41,
+      "balls_played": 35,
+      "strike_rate": "117.14"
+    },
+    "Harpreet Singh": {
+      "runs_played": 14,
+      "balls_played": 20,
+      "strike_rate": "70.00"
+    },
+    "M Klinger": {
+      "runs_played": 73,
+      "balls_played": 78,
+      "strike_rate": "93.59"
+    },
+    "B Akhil": {
+      "runs_played": 13,
+      "balls_played": 9,
+      "strike_rate": "144.44"
+    },
+    "Bipul Sharma": {
+      "runs_played": 23,
+      "balls_played": 18,
+      "strike_rate": "127.78"
+    },
+    "AC Blizzard": {
+      "runs_played": 120,
+      "balls_played": 88,
+      "strike_rate": "136.36"
+    },
+    "TL Suman": {
+      "runs_played": 65,
+      "balls_played": 53,
+      "strike_rate": "122.64"
+    },
+    "AA Jhunjhunwala": {
+      "runs_played": 10,
+      "balls_played": 19,
+      "strike_rate": "52.63"
+    },
+    "MV Boucher": {
+      "runs_played": 6,
+      "balls_played": 6,
+      "strike_rate": "100.00"
+    },
+    "I Malhotra": {
+      "runs_played": 7,
+      "balls_played": 4,
+      "strike_rate": "175.00"
+    },
+    "L Ablish": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "CA Ingram": {
+      "runs_played": 21,
+      "balls_played": 26,
+      "strike_rate": "80.77"
+    },
+    "AB Agarkar": {
+      "runs_played": 7,
+      "balls_played": 7,
+      "strike_rate": "100.00"
+    },
+    "S Nadeem": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "P Parameswaran": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "Mandeep Singh": {
+      "runs_played": 47,
+      "balls_played": 42,
+      "strike_rate": "111.90"
+    },
+    "SD Chitnis": {
+      "runs_played": 9,
+      "balls_played": 9,
+      "strike_rate": "100.00"
+    },
+    "SJ Srivastava": {
+      "runs_played": 4,
+      "balls_played": 3,
+      "strike_rate": "133.33"
+    },
+    "CJ Ferguson": {
+      "runs_played": 48,
+      "balls_played": 56,
+      "strike_rate": "85.71"
+    },
+    "SC Ganguly": {
+      "runs_played": 50,
+      "balls_played": 61,
+      "strike_rate": "81.97"
+    },
+    "DS Kulkarni": {
+      "runs_played": 2,
+      "balls_played": 4,
+      "strike_rate": "50.00"
+    },
+    "MM Patel": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "AB McDonald": {
+      "runs_played": 8,
+      "balls_played": 7,
+      "strike_rate": "114.29"
+    },
+    "OA Shah": {
+      "runs_played": 26,
+      "balls_played": 16,
+      "strike_rate": "162.50"
+    },
+    "LA Pomersbach": {
+      "runs_played": 51,
+      "balls_played": 41,
+      "strike_rate": "124.39"
+    },
+    "KB Arun Karthik": {
+      "runs_played": 7,
+      "balls_played": 8,
+      "strike_rate": "87.50"
+    },
+    "MJ Lumb": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "S Sriram": {
+      "runs_played": 4,
+      "balls_played": 7,
+      "strike_rate": "57.14"
+    },
+    "VR Aaron": {
+      "runs_played": 0,
+      "balls_played": 5,
+      "strike_rate": "0.00"
+    },
+    "PR Shah": {
+      "runs_played": 5,
+      "balls_played": 5,
+      "strike_rate": "100.00"
+    },
+    "JDP Oram": {
+      "runs_played": 0,
+      "balls_played": 3,
+      "strike_rate": "0.00"
+    },
+    "AA Chavan": {
+      "runs_played": 1,
+      "balls_played": 3,
+      "strike_rate": "33.33"
+    },
+    "ND Doshi": {
+      "runs_played": 0,
+      "balls_played": 13,
+      "strike_rate": "0.00"
+    },
+    "B Kumar": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "CK Langeveldt": {
+      "runs_played": 8,
+      "balls_played": 8,
+      "strike_rate": "100.00"
+    },
+    "WP Saha": {
+      "runs_played": 68,
+      "balls_played": 67,
+      "strike_rate": "101.49"
+    },
+    "Y Gnaneswara Rao": {
+      "runs_played": 19,
+      "balls_played": 18,
+      "strike_rate": "105.56"
+    },
+    "S Rana": {
+      "runs_played": 18,
+      "balls_played": 16,
+      "strike_rate": "112.50"
+    },
+    "BA Bhatt": {
+      "runs_played": 0,
+      "balls_played": 5,
+      "strike_rate": "0.00"
+    },
+    "DJ Bravo": {
+      "runs_played": 11,
+      "balls_played": 6,
+      "strike_rate": "183.33"
+    },
+    "AN Ahmed": {
+      "runs_played": 18,
+      "balls_played": 13,
+      "strike_rate": "138.46"
+    }
+  },
+  "2012": {
+    "F du Plessis": {
+      "runs_played": 398,
+      "balls_played": 310,
+      "strike_rate": "128.39"
+    },
+    "M Vijay": {
+      "runs_played": 336,
+      "balls_played": 273,
+      "strike_rate": "123.08"
+    },
+    "SK Raina": {
+      "runs_played": 441,
+      "balls_played": 335,
+      "strike_rate": "131.64"
+    },
+    "DJ Bravo": {
+      "runs_played": 371,
+      "balls_played": 271,
+      "strike_rate": "136.90"
+    },
+    "JA Morkel": {
+      "runs_played": 107,
+      "balls_played": 71,
+      "strike_rate": "150.70"
+    },
+    "S Badrinath": {
+      "runs_played": 196,
+      "balls_played": 188,
+      "strike_rate": "104.26"
+    },
+    "MS Dhoni": {
+      "runs_played": 357,
+      "balls_played": 283,
+      "strike_rate": "126.15"
+    },
+    "RA Jadeja": {
+      "runs_played": 191,
+      "balls_played": 153,
+      "strike_rate": "124.84"
+    },
+    "R Ashwin": {
+      "runs_played": 18,
+      "balls_played": 15,
+      "strike_rate": "120.00"
+    },
+    "SB Jakati": {
+      "runs_played": 7,
+      "balls_played": 12,
+      "strike_rate": "58.33"
+    },
+    "DE Bollinger": {
+      "runs_played": 3,
+      "balls_played": 5,
+      "strike_rate": "60.00"
+    },
+    "RE Levi": {
+      "runs_played": 83,
+      "balls_played": 74,
+      "strike_rate": "112.16"
+    },
+    "SR Tendulkar": {
+      "runs_played": 324,
+      "balls_played": 297,
+      "strike_rate": "109.09"
+    },
+    "RG Sharma": {
+      "runs_played": 433,
+      "balls_played": 350,
+      "strike_rate": "123.71"
+    },
+    "AT Rayudu": {
+      "runs_played": 333,
+      "balls_played": 261,
+      "strike_rate": "127.59"
+    },
+    "JEC Franklin": {
+      "runs_played": 220,
+      "balls_played": 229,
+      "strike_rate": "96.07"
+    },
+    "BB McCullum": {
+      "runs_played": 289,
+      "balls_played": 287,
+      "strike_rate": "100.70"
+    },
+    "JH Kallis": {
+      "runs_played": 409,
+      "balls_played": 393,
+      "strike_rate": "104.07"
+    },
+    "G Gambhir": {
+      "runs_played": 590,
+      "balls_played": 429,
+      "strike_rate": "137.53"
+    },
+    "MK Tiwary": {
+      "runs_played": 260,
+      "balls_played": 251,
+      "strike_rate": "103.59"
+    },
+    "YK Pathan": {
+      "runs_played": 194,
+      "balls_played": 179,
+      "strike_rate": "108.38"
+    },
+    "DB Das": {
+      "runs_played": 126,
+      "balls_played": 96,
+      "strike_rate": "131.25"
+    },
+    "LR Shukla": {
+      "runs_played": 75,
+      "balls_played": 57,
+      "strike_rate": "131.58"
+    },
+    "R Bhatia": {
+      "runs_played": 35,
+      "balls_played": 30,
+      "strike_rate": "116.67"
+    },
+    "B Lee": {
+      "runs_played": 42,
+      "balls_played": 21,
+      "strike_rate": "200.00"
+    },
+    "Iqbal Abdulla": {
+      "runs_played": 2,
+      "balls_played": 3,
+      "strike_rate": "66.67"
+    },
+    "AJ Finch": {
+      "runs_played": 55,
+      "balls_played": 52,
+      "strike_rate": "105.77"
+    },
+    "V Sehwag": {
+      "runs_played": 495,
+      "balls_played": 317,
+      "strike_rate": "156.15"
+    },
+    "IK Pathan": {
+      "runs_played": 176,
+      "balls_played": 133,
+      "strike_rate": "132.33"
+    },
+    "GJ Maxwell": {
+      "runs_played": 6,
+      "balls_played": 11,
+      "strike_rate": "54.55"
+    },
+    "MK Pandey": {
+      "runs_played": 143,
+      "balls_played": 115,
+      "strike_rate": "124.35"
+    },
+    "WD Parnell": {
+      "runs_played": 19,
+      "balls_played": 29,
+      "strike_rate": "65.52"
+    },
+    "SC Ganguly": {
+      "runs_played": 268,
+      "balls_played": 288,
+      "strike_rate": "93.06"
+    },
+    "RV Uthappa": {
+      "runs_played": 405,
+      "balls_played": 357,
+      "strike_rate": "113.45"
+    },
+    "CJ Ferguson": {
+      "runs_played": 50,
+      "balls_played": 63,
+      "strike_rate": "79.37"
+    },
+    "SPD Smith": {
+      "runs_played": 362,
+      "balls_played": 272,
+      "strike_rate": "133.09"
+    },
+    "MN Samuels": {
+      "runs_played": 124,
+      "balls_played": 124,
+      "strike_rate": "100.00"
+    },
+    "B Kumar": {
+      "runs_played": 40,
+      "balls_played": 41,
+      "strike_rate": "97.56"
+    },
+    "M Kartik": {
+      "runs_played": 26,
+      "balls_played": 21,
+      "strike_rate": "123.81"
+    },
+    "KD Karthik": {
+      "runs_played": 238,
+      "balls_played": 217,
+      "strike_rate": "109.68"
+    },
+    "SA Yadav": {
+      "runs_played": 0,
+      "balls_played": 4,
+      "strike_rate": "0.00"
+    },
+    "KA Pollard": {
+      "runs_played": 220,
+      "balls_played": 163,
+      "strike_rate": "134.97"
+    },
+    "Harbhajan Singh": {
+      "runs_played": 108,
+      "balls_played": 82,
+      "strike_rate": "131.71"
+    },
+    "SL Malinga": {
+      "runs_played": 55,
+      "balls_played": 55,
+      "strike_rate": "100.00"
+    },
+    "PP Ojha": {
+      "runs_played": 4,
+      "balls_played": 14,
+      "strike_rate": "28.57"
+    },
+    "MM Patel": {
+      "runs_played": 2,
+      "balls_played": 7,
+      "strike_rate": "28.57"
+    },
+    "R Dravid": {
+      "runs_played": 462,
+      "balls_played": 424,
+      "strike_rate": "108.96"
+    },
+    "AM Rahane": {
+      "runs_played": 560,
+      "balls_played": 448,
+      "strike_rate": "125.00"
+    },
+    "AL Menaria": {
+      "runs_played": 220,
+      "balls_played": 207,
+      "strike_rate": "106.28"
+    },
+    "BJ Hodge": {
+      "runs_played": 245,
+      "balls_played": 180,
+      "strike_rate": "136.11"
+    },
+    "OA Shah": {
+      "runs_played": 340,
+      "balls_played": 269,
+      "strike_rate": "126.39"
+    },
+    "KK Cooper": {
+      "runs_played": 38,
+      "balls_played": 20,
+      "strike_rate": "190.00"
+    },
+    "AC Gilchrist": {
+      "runs_played": 172,
+      "balls_played": 147,
+      "strike_rate": "117.01"
+    },
+    "PC Valthaty": {
+      "runs_played": 30,
+      "balls_played": 52,
+      "strike_rate": "57.69"
+    },
+    "SE Marsh": {
+      "runs_played": 336,
+      "balls_played": 288,
+      "strike_rate": "116.67"
+    },
+    "AM Nayar": {
+      "runs_played": 45,
+      "balls_played": 49,
+      "strike_rate": "91.84"
+    },
+    "Mandeep Singh": {
+      "runs_played": 432,
+      "balls_played": 349,
+      "strike_rate": "123.78"
+    },
+    "DJ Hussey": {
+      "runs_played": 396,
+      "balls_played": 313,
+      "strike_rate": "126.52"
+    },
+    "Bipul Sharma": {
+      "runs_played": 72,
+      "balls_played": 47,
+      "strike_rate": "153.19"
+    },
+    "PP Chawla": {
+      "runs_played": 106,
+      "balls_played": 88,
+      "strike_rate": "120.45"
+    },
+    "JP Faulkner": {
+      "runs_played": 14,
+      "balls_played": 14,
+      "strike_rate": "100.00"
+    },
+    "P Kumar": {
+      "runs_played": 35,
+      "balls_played": 32,
+      "strike_rate": "109.38"
+    },
+    "Harmeet Singh": {
+      "runs_played": 15,
+      "balls_played": 7,
+      "strike_rate": "214.29"
+    },
+    "AB McDonald": {
+      "runs_played": 47,
+      "balls_played": 36,
+      "strike_rate": "130.56"
+    },
+    "CA Pujara": {
+      "runs_played": 17,
+      "balls_played": 23,
+      "strike_rate": "73.91"
+    },
+    "V Kohli": {
+      "runs_played": 364,
+      "balls_played": 333,
+      "strike_rate": "109.31"
+    },
+    "AB de Villiers": {
+      "runs_played": 319,
+      "balls_played": 203,
+      "strike_rate": "157.14"
+    },
+    "SS Tiwary": {
+      "runs_played": 191,
+      "balls_played": 173,
+      "strike_rate": "110.40"
+    },
+    "MA Agarwal": {
+      "runs_played": 225,
+      "balls_played": 164,
+      "strike_rate": "137.20"
+    },
+    "DL Vettori": {
+      "runs_played": 31,
+      "balls_played": 28,
+      "strike_rate": "110.71"
+    },
+    "R Vinay Kumar": {
+      "runs_played": 68,
+      "balls_played": 65,
+      "strike_rate": "104.62"
+    },
+    "HV Patel": {
+      "runs_played": 15,
+      "balls_played": 17,
+      "strike_rate": "88.24"
+    },
+    "NV Ojha": {
+      "runs_played": 255,
+      "balls_played": 230,
+      "strike_rate": "110.87"
+    },
+    "Y Venugopal Rao": {
+      "runs_played": 132,
+      "balls_played": 129,
+      "strike_rate": "102.33"
+    },
+    "Y Nagar": {
+      "runs_played": 153,
+      "balls_played": 134,
+      "strike_rate": "114.18"
+    },
+    "DAJ Bracewell": {
+      "runs_played": 12,
+      "balls_played": 9,
+      "strike_rate": "133.33"
+    },
+    "M Morkel": {
+      "runs_played": 3,
+      "balls_played": 5,
+      "strike_rate": "60.00"
+    },
+    "DJ Harris": {
+      "runs_played": 111,
+      "balls_played": 103,
+      "strike_rate": "107.77"
+    },
+    "S Dhawan": {
+      "runs_played": 569,
+      "balls_played": 448,
+      "strike_rate": "127.01"
+    },
+    "PA Patel": {
+      "runs_played": 194,
+      "balls_played": 166,
+      "strike_rate": "116.87"
+    },
+    "CL White": {
+      "runs_played": 479,
+      "balls_played": 327,
+      "strike_rate": "146.48"
+    },
+    "B Chipli": {
+      "runs_played": 37,
+      "balls_played": 35,
+      "strike_rate": "105.71"
+    },
+    "DT Christian": {
+      "runs_played": 145,
+      "balls_played": 122,
+      "strike_rate": "118.85"
+    },
+    "MS Gony": {
+      "runs_played": 4,
+      "balls_played": 8,
+      "strike_rate": "50.00"
+    },
+    "DB Ravi Teja": {
+      "runs_played": 4,
+      "balls_played": 4,
+      "strike_rate": "100.00"
+    },
+    "DW Steyn": {
+      "runs_played": 19,
+      "balls_played": 21,
+      "strike_rate": "90.48"
+    },
+    "Ankit Sharma": {
+      "runs_played": 18,
+      "balls_played": 13,
+      "strike_rate": "138.46"
+    },
+    "SP Goswami": {
+      "runs_played": 69,
+      "balls_played": 69,
+      "strike_rate": "100.00"
+    },
+    "SP Narine": {
+      "runs_played": 9,
+      "balls_played": 8,
+      "strike_rate": "112.50"
+    },
+    "JD Ryder": {
+      "runs_played": 256,
+      "balls_played": 216,
+      "strike_rate": "118.52"
+    },
+    "R Sharma": {
+      "runs_played": 2,
+      "balls_played": 11,
+      "strike_rate": "18.18"
+    },
+    "AD Mascarenhas": {
+      "runs_played": 14,
+      "balls_played": 16,
+      "strike_rate": "87.50"
+    },
+    "KC Sangakkara": {
+      "runs_played": 200,
+      "balls_played": 190,
+      "strike_rate": "105.26"
+    },
+    "A Mishra": {
+      "runs_played": 16,
+      "balls_played": 21,
+      "strike_rate": "76.19"
+    },
+    "TL Suman": {
+      "runs_played": 15,
+      "balls_played": 19,
+      "strike_rate": "78.95"
+    },
+    "MS Bisla": {
+      "runs_played": 213,
+      "balls_played": 171,
+      "strike_rate": "124.56"
+    },
+    "RN ten Doeschate": {
+      "runs_played": 21,
+      "balls_played": 21,
+      "strike_rate": "100.00"
+    },
+    "Shakib Al Hasan": {
+      "runs_played": 91,
+      "balls_played": 77,
+      "strike_rate": "118.18"
+    },
+    "CH Gayle": {
+      "runs_played": 733,
+      "balls_played": 472,
+      "strike_rate": "155.30"
+    },
+    "Z Khan": {
+      "runs_played": 12,
+      "balls_played": 17,
+      "strike_rate": "70.59"
+    },
+    "KP Pietersen": {
+      "runs_played": 305,
+      "balls_played": 210,
+      "strike_rate": "145.24"
+    },
+    "DPMD Jayawardene": {
+      "runs_played": 335,
+      "balls_played": 306,
+      "strike_rate": "109.48"
+    },
+    "J Botha": {
+      "runs_played": 58,
+      "balls_played": 55,
+      "strike_rate": "105.45"
+    },
+    "AA Chavan": {
+      "runs_played": 11,
+      "balls_played": 8,
+      "strike_rate": "137.50"
+    },
+    "A Singh": {
+      "runs_played": 0,
+      "balls_played": 3,
+      "strike_rate": "0.00"
+    },
+    "SK Trivedi": {
+      "runs_played": 5,
+      "balls_played": 6,
+      "strike_rate": "83.33"
+    },
+    "GB Hogg": {
+      "runs_played": 15,
+      "balls_played": 16,
+      "strike_rate": "93.75"
+    },
+    "RR Bhatkal": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "AD Mathews": {
+      "runs_played": 127,
+      "balls_played": 110,
+      "strike_rate": "115.45"
+    },
+    "M Manhas": {
+      "runs_played": 120,
+      "balls_played": 99,
+      "strike_rate": "121.21"
+    },
+    "A Nehra": {
+      "runs_played": 11,
+      "balls_played": 13,
+      "strike_rate": "84.62"
+    },
+    "AB Dinda": {
+      "runs_played": 2,
+      "balls_played": 5,
+      "strike_rate": "40.00"
+    },
+    "JP Duminy": {
+      "runs_played": 244,
+      "balls_played": 195,
+      "strike_rate": "125.13"
+    },
+    "AA Jhunjhunwala": {
+      "runs_played": 24,
+      "balls_played": 27,
+      "strike_rate": "88.89"
+    },
+    "LRPL Taylor": {
+      "runs_played": 197,
+      "balls_played": 177,
+      "strike_rate": "111.30"
+    },
+    "P Dogra": {
+      "runs_played": 15,
+      "balls_played": 25,
+      "strike_rate": "60.00"
+    },
+    "BA Bhatt": {
+      "runs_played": 6,
+      "balls_played": 2,
+      "strike_rate": "300.00"
+    },
+    "M Kaif": {
+      "runs_played": 14,
+      "balls_played": 16,
+      "strike_rate": "87.50"
+    },
+    "S Aravind": {
+      "runs_played": 14,
+      "balls_played": 8,
+      "strike_rate": "175.00"
+    },
+    "M Muralitharan": {
+      "runs_played": 6,
+      "balls_played": 9,
+      "strike_rate": "66.67"
+    },
+    "DJ Jacobs": {
+      "runs_played": 0,
+      "balls_played": 10,
+      "strike_rate": "0.00"
+    },
+    "CJ McKay": {
+      "runs_played": 8,
+      "balls_played": 15,
+      "strike_rate": "53.33"
+    },
+    "RP Singh": {
+      "runs_played": 6,
+      "balls_played": 12,
+      "strike_rate": "50.00"
+    },
+    "DH Yagnik": {
+      "runs_played": 25,
+      "balls_played": 14,
+      "strike_rate": "178.57"
+    },
+    "TM Dilshan": {
+      "runs_played": 285,
+      "balls_played": 274,
+      "strike_rate": "104.01"
+    },
+    "DA Warner": {
+      "runs_played": 256,
+      "balls_played": 161,
+      "strike_rate": "159.01"
+    },
+    "N Saini": {
+      "runs_played": 140,
+      "balls_played": 143,
+      "strike_rate": "97.90"
+    },
+    "DA Miller": {
+      "runs_played": 98,
+      "balls_played": 76,
+      "strike_rate": "128.95"
+    },
+    "Azhar Mahmood": {
+      "runs_played": 186,
+      "balls_played": 145,
+      "strike_rate": "128.28"
+    },
+    "P Negi": {
+      "runs_played": 36,
+      "balls_played": 30,
+      "strike_rate": "120.00"
+    },
+    "NLTC Perera": {
+      "runs_played": 4,
+      "balls_played": 12,
+      "strike_rate": "33.33"
+    },
+    "IR Jaggi": {
+      "runs_played": 15,
+      "balls_played": 22,
+      "strike_rate": "68.18"
+    },
+    "STR Binny": {
+      "runs_played": 90,
+      "balls_played": 70,
+      "strike_rate": "128.57"
+    },
+    "RJ Peterson": {
+      "runs_played": 32,
+      "balls_played": 32,
+      "strike_rate": "100.00"
+    },
+    "AC Thomas": {
+      "runs_played": 19,
+      "balls_played": 15,
+      "strike_rate": "126.67"
+    },
+    "AC Blizzard": {
+      "runs_played": 0,
+      "balls_played": 3,
+      "strike_rate": "0.00"
+    },
+    "WP Saha": {
+      "runs_played": 6,
+      "balls_played": 14,
+      "strike_rate": "42.86"
+    },
+    "KMDN Kulasekara": {
+      "runs_played": 5,
+      "balls_played": 3,
+      "strike_rate": "166.67"
+    },
+    "A Ashish Reddy": {
+      "runs_played": 35,
+      "balls_played": 30,
+      "strike_rate": "116.67"
+    },
+    "V Pratap Singh": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "MEK Hussey": {
+      "runs_played": 261,
+      "balls_played": 241,
+      "strike_rate": "108.30"
+    },
+    "BB Samantray": {
+      "runs_played": 2,
+      "balls_played": 2,
+      "strike_rate": "100.00"
+    },
+    "MJ Clarke": {
+      "runs_played": 98,
+      "balls_played": 96,
+      "strike_rate": "102.08"
+    },
+    "SR Watson": {
+      "runs_played": 255,
+      "balls_played": 171,
+      "strike_rate": "149.12"
+    },
+    "AUK Pathan": {
+      "runs_played": 6,
+      "balls_played": 8,
+      "strike_rate": "75.00"
+    },
+    "Gurkeerat Singh": {
+      "runs_played": 86,
+      "balls_played": 54,
+      "strike_rate": "159.26"
+    },
+    "RJ Harris": {
+      "runs_played": 18,
+      "balls_played": 11,
+      "strike_rate": "163.64"
+    },
+    "DR Smith": {
+      "runs_played": 157,
+      "balls_played": 102,
+      "strike_rate": "153.92"
+    },
+    "J Syed Mohammad": {
+      "runs_played": 4,
+      "balls_played": 1,
+      "strike_rate": "400.00"
+    },
+    "S Nadeem": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "VR Aaron": {
+      "runs_played": 1,
+      "balls_played": 3,
+      "strike_rate": "33.33"
+    },
+    "AP Majumdar": {
+      "runs_played": 87,
+      "balls_played": 77,
+      "strike_rate": "112.99"
+    },
+    "SD Chitnis": {
+      "runs_played": 66,
+      "balls_played": 64,
+      "strike_rate": "103.13"
+    },
+    "PA Reddy": {
+      "runs_played": 73,
+      "balls_played": 63,
+      "strike_rate": "115.87"
+    },
+    "J Theron": {
+      "runs_played": 7,
+      "balls_played": 6,
+      "strike_rate": "116.67"
+    },
+    "S Anirudha": {
+      "runs_played": 19,
+      "balls_played": 9,
+      "strike_rate": "211.11"
+    },
+    "MD Mishra": {
+      "runs_played": 4,
+      "balls_played": 4,
+      "strike_rate": "100.00"
+    },
+    "K Upadhyay": {
+      "runs_played": 11,
+      "balls_played": 8,
+      "strike_rate": "137.50"
+    },
+    "HH Gibbs": {
+      "runs_played": 81,
+      "balls_played": 91,
+      "strike_rate": "89.01"
+    },
+    "P Awana": {
+      "runs_played": 4,
+      "balls_played": 5,
+      "strike_rate": "80.00"
+    },
+    "UBT Chand": {
+      "runs_played": 36,
+      "balls_played": 35,
+      "strike_rate": "102.86"
+    },
+    "AD Russell": {
+      "runs_played": 47,
+      "balls_played": 27,
+      "strike_rate": "174.07"
+    },
+    "UT Yadav": {
+      "runs_played": 2,
+      "balls_played": 7,
+      "strike_rate": "28.57"
+    },
+    "A Chandila": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "CA Lynn": {
+      "runs_played": 6,
+      "balls_played": 10,
+      "strike_rate": "60.00"
+    },
+    "Harpreet Singh": {
+      "runs_played": 6,
+      "balls_played": 6,
+      "strike_rate": "100.00"
+    },
+    "AG Murtaza": {
+      "runs_played": 3,
+      "balls_played": 5,
+      "strike_rate": "60.00"
+    },
+    "P Parameswaran": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "DS Kulkarni": {
+      "runs_played": 10,
+      "balls_played": 5,
+      "strike_rate": "200.00"
+    },
+    "Sunny Gupta": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    }
+  },
+  "2013": {
+    "UBT Chand": {
+      "runs_played": 158,
+      "balls_played": 163,
+      "strike_rate": "96.93"
+    },
+    "DPMD Jayawardene": {
+      "runs_played": 331,
+      "balls_played": 322,
+      "strike_rate": "102.80"
+    },
+    "DA Warner": {
+      "runs_played": 410,
+      "balls_played": 333,
+      "strike_rate": "123.12"
+    },
+    "MC Juneja": {
+      "runs_played": 125,
+      "balls_played": 134,
+      "strike_rate": "93.28"
+    },
+    "NV Ojha": {
+      "runs_played": 9,
+      "balls_played": 10,
+      "strike_rate": "90.00"
+    },
+    "J Botha": {
+      "runs_played": 43,
+      "balls_played": 52,
+      "strike_rate": "82.69"
+    },
+    "IK Pathan": {
+      "runs_played": 153,
+      "balls_played": 159,
+      "strike_rate": "96.23"
+    },
+    "AD Russell": {
+      "runs_played": 11,
+      "balls_played": 15,
+      "strike_rate": "73.33"
+    },
+    "S Nadeem": {
+      "runs_played": 14,
+      "balls_played": 27,
+      "strike_rate": "51.85"
+    },
+    "A Nehra": {
+      "runs_played": 1,
+      "balls_played": 8,
+      "strike_rate": "12.50"
+    },
+    "MS Bisla": {
+      "runs_played": 255,
+      "balls_played": 248,
+      "strike_rate": "102.82"
+    },
+    "G Gambhir": {
+      "runs_played": 406,
+      "balls_played": 354,
+      "strike_rate": "114.69"
+    },
+    "JH Kallis": {
+      "runs_played": 311,
+      "balls_played": 327,
+      "strike_rate": "95.11"
+    },
+    "MK Tiwary": {
+      "runs_played": 146,
+      "balls_played": 142,
+      "strike_rate": "102.82"
+    },
+    "EJG Morgan": {
+      "runs_played": 307,
+      "balls_played": 250,
+      "strike_rate": "122.80"
+    },
+    "YK Pathan": {
+      "runs_played": 332,
+      "balls_played": 247,
+      "strike_rate": "134.41"
+    },
+    "CH Gayle": {
+      "runs_played": 720,
+      "balls_played": 484,
+      "strike_rate": "148.76"
+    },
+    "TM Dilshan": {
+      "runs_played": 76,
+      "balls_played": 97,
+      "strike_rate": "78.35"
+    },
+    "V Kohli": {
+      "runs_played": 639,
+      "balls_played": 471,
+      "strike_rate": "135.67"
+    },
+    "MA Agarwal": {
+      "runs_played": 67,
+      "balls_played": 64,
+      "strike_rate": "104.69"
+    },
+    "DT Christian": {
+      "runs_played": 6,
+      "balls_played": 16,
+      "strike_rate": "37.50"
+    },
+    "KK Nair": {
+      "runs_played": 9,
+      "balls_played": 12,
+      "strike_rate": "75.00"
+    },
+    "KB Arun Karthik": {
+      "runs_played": 41,
+      "balls_played": 40,
+      "strike_rate": "102.50"
+    },
+    "RT Ponting": {
+      "runs_played": 52,
+      "balls_played": 76,
+      "strike_rate": "68.42"
+    },
+    "SR Tendulkar": {
+      "runs_played": 287,
+      "balls_played": 243,
+      "strike_rate": "118.11"
+    },
+    "KD Karthik": {
+      "runs_played": 510,
+      "balls_played": 422,
+      "strike_rate": "120.85"
+    },
+    "RG Sharma": {
+      "runs_played": 538,
+      "balls_played": 415,
+      "strike_rate": "129.64"
+    },
+    "AT Rayudu": {
+      "runs_played": 265,
+      "balls_played": 235,
+      "strike_rate": "112.77"
+    },
+    "Harbhajan Singh": {
+      "runs_played": 116,
+      "balls_played": 82,
+      "strike_rate": "141.46"
+    },
+    "KA Pollard": {
+      "runs_played": 420,
+      "balls_played": 290,
+      "strike_rate": "144.83"
+    },
+    "PA Reddy": {
+      "runs_played": 91,
+      "balls_played": 104,
+      "strike_rate": "87.50"
+    },
+    "PA Patel": {
+      "runs_played": 294,
+      "balls_played": 261,
+      "strike_rate": "112.64"
+    },
+    "KC Sangakkara": {
+      "runs_played": 120,
+      "balls_played": 137,
+      "strike_rate": "87.59"
+    },
+    "CL White": {
+      "runs_played": 226,
+      "balls_played": 200,
+      "strike_rate": "113.00"
+    },
+    "NLTC Perera": {
+      "runs_played": 235,
+      "balls_played": 173,
+      "strike_rate": "135.84"
+    },
+    "GH Vihari": {
+      "runs_played": 241,
+      "balls_played": 287,
+      "strike_rate": "83.97"
+    },
+    "A Ashish Reddy": {
+      "runs_played": 125,
+      "balls_played": 90,
+      "strike_rate": "138.89"
+    },
+    "DB Ravi Teja": {
+      "runs_played": 14,
+      "balls_played": 18,
+      "strike_rate": "77.78"
+    },
+    "RV Uthappa": {
+      "runs_played": 434,
+      "balls_played": 385,
+      "strike_rate": "112.73"
+    },
+    "MK Pandey": {
+      "runs_played": 136,
+      "balls_played": 139,
+      "strike_rate": "97.84"
+    },
+    "MN Samuels": {
+      "runs_played": 8,
+      "balls_played": 18,
+      "strike_rate": "44.44"
+    },
+    "Yuvraj Singh": {
+      "runs_played": 238,
+      "balls_played": 193,
+      "strike_rate": "123.32"
+    },
+    "LRPL Taylor": {
+      "runs_played": 63,
+      "balls_played": 77,
+      "strike_rate": "81.82"
+    },
+    "AM Nayar": {
+      "runs_played": 66,
+      "balls_played": 74,
+      "strike_rate": "89.19"
+    },
+    "MR Marsh": {
+      "runs_played": 140,
+      "balls_played": 109,
+      "strike_rate": "128.44"
+    },
+    "AD Mathews": {
+      "runs_played": 172,
+      "balls_played": 141,
+      "strike_rate": "121.99"
+    },
+    "B Kumar": {
+      "runs_played": 52,
+      "balls_played": 72,
+      "strike_rate": "72.22"
+    },
+    "R Sharma": {
+      "runs_played": 11,
+      "balls_played": 17,
+      "strike_rate": "64.71"
+    },
+    "AB Dinda": {
+      "runs_played": 9,
+      "balls_played": 11,
+      "strike_rate": "81.82"
+    },
+    "MDKJ Perera": {
+      "runs_played": 14,
+      "balls_played": 13,
+      "strike_rate": "107.69"
+    },
+    "AM Rahane": {
+      "runs_played": 488,
+      "balls_played": 472,
+      "strike_rate": "103.39"
+    },
+    "R Dravid": {
+      "runs_played": 471,
+      "balls_played": 433,
+      "strike_rate": "108.78"
+    },
+    "STR Binny": {
+      "runs_played": 293,
+      "balls_played": 204,
+      "strike_rate": "143.63"
+    },
+    "BJ Hodge": {
+      "runs_played": 293,
+      "balls_played": 224,
+      "strike_rate": "130.80"
+    },
+    "AL Menaria": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "KK Cooper": {
+      "runs_played": 39,
+      "balls_played": 22,
+      "strike_rate": "177.27"
+    },
+    "R Shukla": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "DR Smith": {
+      "runs_played": 418,
+      "balls_played": 351,
+      "strike_rate": "119.09"
+    },
+    "MEK Hussey": {
+      "runs_played": 733,
+      "balls_played": 580,
+      "strike_rate": "126.38"
+    },
+    "M Vijay": {
+      "runs_played": 312,
+      "balls_played": 293,
+      "strike_rate": "106.48"
+    },
+    "SK Raina": {
+      "runs_played": 548,
+      "balls_played": 370,
+      "strike_rate": "148.11"
+    },
+    "DJ Bravo": {
+      "runs_played": 121,
+      "balls_played": 112,
+      "strike_rate": "108.04"
+    },
+    "S Badrinath": {
+      "runs_played": 124,
+      "balls_played": 123,
+      "strike_rate": "100.81"
+    },
+    "MS Dhoni": {
+      "runs_played": 461,
+      "balls_played": 298,
+      "strike_rate": "154.70"
+    },
+    "RA Jadeja": {
+      "runs_played": 201,
+      "balls_played": 139,
+      "strike_rate": "144.60"
+    },
+    "R Ashwin": {
+      "runs_played": 35,
+      "balls_played": 50,
+      "strike_rate": "70.00"
+    },
+    "B Laughlin": {
+      "runs_played": 4,
+      "balls_played": 9,
+      "strike_rate": "44.44"
+    },
+    "AS Rajpoot": {
+      "runs_played": 2,
+      "balls_played": 6,
+      "strike_rate": "33.33"
+    },
+    "TL Suman": {
+      "runs_played": 52,
+      "balls_played": 58,
+      "strike_rate": "89.66"
+    },
+    "AC Gilchrist": {
+      "runs_played": 294,
+      "balls_played": 234,
+      "strike_rate": "125.64"
+    },
+    "Mandeep Singh": {
+      "runs_played": 260,
+      "balls_played": 228,
+      "strike_rate": "114.04"
+    },
+    "M Vohra": {
+      "runs_played": 161,
+      "balls_played": 117,
+      "strike_rate": "137.61"
+    },
+    "DJ Hussey": {
+      "runs_played": 235,
+      "balls_played": 210,
+      "strike_rate": "111.90"
+    },
+    "MC Henriques": {
+      "runs_played": 165,
+      "balls_played": 127,
+      "strike_rate": "129.92"
+    },
+    "R Vinay Kumar": {
+      "runs_played": 70,
+      "balls_played": 44,
+      "strike_rate": "159.09"
+    },
+    "M Kartik": {
+      "runs_played": 2,
+      "balls_played": 3,
+      "strike_rate": "66.67"
+    },
+    "JD Unadkat": {
+      "runs_played": 2,
+      "balls_played": 2,
+      "strike_rate": "100.00"
+    },
+    "DW Steyn": {
+      "runs_played": 53,
+      "balls_played": 37,
+      "strike_rate": "143.24"
+    },
+    "SR Watson": {
+      "runs_played": 543,
+      "balls_played": 393,
+      "strike_rate": "138.17"
+    },
+    "DH Yagnik": {
+      "runs_played": 125,
+      "balls_played": 99,
+      "strike_rate": "126.26"
+    },
+    "S Sreesanth": {
+      "runs_played": 1,
+      "balls_played": 4,
+      "strike_rate": "25.00"
+    },
+    "LR Shukla": {
+      "runs_played": 3,
+      "balls_played": 13,
+      "strike_rate": "23.08"
+    },
+    "R Bhatia": {
+      "runs_played": 99,
+      "balls_played": 81,
+      "strike_rate": "122.22"
+    },
+    "B Lee": {
+      "runs_played": 21,
+      "balls_played": 12,
+      "strike_rate": "175.00"
+    },
+    "Mohammed Shami": {
+      "runs_played": 5,
+      "balls_played": 10,
+      "strike_rate": "50.00"
+    },
+    "SP Narine": {
+      "runs_played": 21,
+      "balls_played": 20,
+      "strike_rate": "105.00"
+    },
+    "BMAJ Mendis": {
+      "runs_played": 23,
+      "balls_played": 27,
+      "strike_rate": "85.19"
+    },
+    "KM Jadhav": {
+      "runs_played": 152,
+      "balls_played": 127,
+      "strike_rate": "119.69"
+    },
+    "M Morkel": {
+      "runs_played": 57,
+      "balls_played": 30,
+      "strike_rate": "190.00"
+    },
+    "UT Yadav": {
+      "runs_played": 38,
+      "balls_played": 39,
+      "strike_rate": "97.44"
+    },
+    "Gurkeerat Singh": {
+      "runs_played": 108,
+      "balls_played": 98,
+      "strike_rate": "110.20"
+    },
+    "Azhar Mahmood": {
+      "runs_played": 196,
+      "balls_played": 158,
+      "strike_rate": "124.05"
+    },
+    "R Sathish": {
+      "runs_played": 109,
+      "balls_played": 79,
+      "strike_rate": "137.97"
+    },
+    "PP Chawla": {
+      "runs_played": 64,
+      "balls_played": 60,
+      "strike_rate": "106.67"
+    },
+    "RJ Harris": {
+      "runs_played": 2,
+      "balls_played": 5,
+      "strike_rate": "40.00"
+    },
+    "P Kumar": {
+      "runs_played": 47,
+      "balls_played": 41,
+      "strike_rate": "114.63"
+    },
+    "P Awana": {
+      "runs_played": 1,
+      "balls_played": 9,
+      "strike_rate": "11.11"
+    },
+    "R McLaren": {
+      "runs_played": 3,
+      "balls_played": 6,
+      "strike_rate": "50.00"
+    },
+    "PJ Sangwan": {
+      "runs_played": 4,
+      "balls_played": 2,
+      "strike_rate": "200.00"
+    },
+    "AB de Villiers": {
+      "runs_played": 373,
+      "balls_played": 226,
+      "strike_rate": "165.04"
+    },
+    "JP Faulkner": {
+      "runs_played": 57,
+      "balls_played": 57,
+      "strike_rate": "100.00"
+    },
+    "AJ Finch": {
+      "runs_played": 456,
+      "balls_played": 344,
+      "strike_rate": "132.56"
+    },
+    "V Sehwag": {
+      "runs_played": 295,
+      "balls_played": 244,
+      "strike_rate": "120.90"
+    },
+    "A Mishra": {
+      "runs_played": 89,
+      "balls_played": 103,
+      "strike_rate": "86.41"
+    },
+    "R Rampaul": {
+      "runs_played": 38,
+      "balls_played": 39,
+      "strike_rate": "97.44"
+    },
+    "CH Morris": {
+      "runs_played": 14,
+      "balls_played": 17,
+      "strike_rate": "82.35"
+    },
+    "KV Sharma": {
+      "runs_played": 85,
+      "balls_played": 89,
+      "strike_rate": "95.51"
+    },
+    "SV Samson": {
+      "runs_played": 206,
+      "balls_played": 179,
+      "strike_rate": "115.08"
+    },
+    "SPD Smith": {
+      "runs_played": 159,
+      "balls_played": 134,
+      "strike_rate": "118.66"
+    },
+    "S Anirudha": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "JA Morkel": {
+      "runs_played": 46,
+      "balls_played": 37,
+      "strike_rate": "124.32"
+    },
+    "DA Miller": {
+      "runs_played": 418,
+      "balls_played": 257,
+      "strike_rate": "162.65"
+    },
+    "MS Gony": {
+      "runs_played": 45,
+      "balls_played": 27,
+      "strike_rate": "166.67"
+    },
+    "DB Das": {
+      "runs_played": 75,
+      "balls_played": 76,
+      "strike_rate": "98.68"
+    },
+    "SMSM Senanayake": {
+      "runs_played": 10,
+      "balls_played": 17,
+      "strike_rate": "58.82"
+    },
+    "BJ Rohrer": {
+      "runs_played": 193,
+      "balls_played": 146,
+      "strike_rate": "132.19"
+    },
+    "KL Rahul": {
+      "runs_played": 20,
+      "balls_played": 16,
+      "strike_rate": "125.00"
+    },
+    "AB McDonald": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "J Syed Mohammad": {
+      "runs_played": 10,
+      "balls_played": 13,
+      "strike_rate": "76.92"
+    },
+    "Q de Kock": {
+      "runs_played": 6,
+      "balls_played": 16,
+      "strike_rate": "37.50"
+    },
+    "BB Samantray": {
+      "runs_played": 123,
+      "balls_played": 114,
+      "strike_rate": "107.89"
+    },
+    "R Dhawan": {
+      "runs_played": 21,
+      "balls_played": 21,
+      "strike_rate": "100.00"
+    },
+    "MG Johnson": {
+      "runs_played": 39,
+      "balls_played": 37,
+      "strike_rate": "105.41"
+    },
+    "SL Malinga": {
+      "runs_played": 9,
+      "balls_played": 19,
+      "strike_rate": "47.37"
+    },
+    "PP Ojha": {
+      "runs_played": 2,
+      "balls_played": 4,
+      "strike_rate": "50.00"
+    },
+    "AB Agarkar": {
+      "runs_played": 12,
+      "balls_played": 16,
+      "strike_rate": "75.00"
+    },
+    "PC Valthaty": {
+      "runs_played": 6,
+      "balls_played": 17,
+      "strike_rate": "35.29"
+    },
+    "AD Mascarenhas": {
+      "runs_played": 5,
+      "balls_played": 5,
+      "strike_rate": "100.00"
+    },
+    "L Balaji": {
+      "runs_played": 9,
+      "balls_played": 10,
+      "strike_rate": "90.00"
+    },
+    "A Chandila": {
+      "runs_played": 4,
+      "balls_played": 6,
+      "strike_rate": "66.67"
+    },
+    "SW Tait": {
+      "runs_played": 1,
+      "balls_played": 3,
+      "strike_rate": "33.33"
+    },
+    "SK Trivedi": {
+      "runs_played": 3,
+      "balls_played": 7,
+      "strike_rate": "42.86"
+    },
+    "SS Tiwary": {
+      "runs_played": 109,
+      "balls_played": 113,
+      "strike_rate": "96.46"
+    },
+    "LJ Wright": {
+      "runs_played": 106,
+      "balls_played": 63,
+      "strike_rate": "168.25"
+    },
+    "M Manhas": {
+      "runs_played": 13,
+      "balls_played": 17,
+      "strike_rate": "76.47"
+    },
+    "AG Murtaza": {
+      "runs_played": 5,
+      "balls_played": 4,
+      "strike_rate": "125.00"
+    },
+    "IC Pandey": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "SE Marsh": {
+      "runs_played": 300,
+      "balls_played": 256,
+      "strike_rate": "117.19"
+    },
+    "CM Gautam": {
+      "runs_played": 44,
+      "balls_played": 37,
+      "strike_rate": "118.92"
+    },
+    "S Dhawan": {
+      "runs_played": 311,
+      "balls_played": 262,
+      "strike_rate": "118.70"
+    },
+    "X Thalaivan Sargunam": {
+      "runs_played": 10,
+      "balls_played": 17,
+      "strike_rate": "58.82"
+    },
+    "DJG Sammy": {
+      "runs_played": 174,
+      "balls_played": 136,
+      "strike_rate": "127.94"
+    },
+    "WP Saha": {
+      "runs_played": 70,
+      "balls_played": 57,
+      "strike_rate": "122.81"
+    },
+    "BB McCullum": {
+      "runs_played": 6,
+      "balls_played": 7,
+      "strike_rate": "85.71"
+    },
+    "A Mukund": {
+      "runs_played": 19,
+      "balls_played": 22,
+      "strike_rate": "86.36"
+    },
+    "OA Shah": {
+      "runs_played": 25,
+      "balls_played": 24,
+      "strike_rate": "104.17"
+    },
+    "KW Richardson": {
+      "runs_played": 34,
+      "balls_played": 36,
+      "strike_rate": "94.44"
+    },
+    "S Narwal": {
+      "runs_played": 23,
+      "balls_played": 16,
+      "strike_rate": "143.75"
+    },
+    "LA Pomersbach": {
+      "runs_played": 58,
+      "balls_played": 60,
+      "strike_rate": "96.67"
+    },
+    "BAW Mendis": {
+      "runs_played": 2,
+      "balls_played": 4,
+      "strike_rate": "50.00"
+    },
+    "CA Pujara": {
+      "runs_played": 92,
+      "balls_played": 100,
+      "strike_rate": "92.00"
+    },
+    "MM Sharma": {
+      "runs_played": 0,
+      "balls_played": 5,
+      "strike_rate": "0.00"
+    },
+    "Iqbal Abdulla": {
+      "runs_played": 8,
+      "balls_played": 14,
+      "strike_rate": "57.14"
+    },
+    "RN ten Doeschate": {
+      "runs_played": 85,
+      "balls_played": 63,
+      "strike_rate": "134.92"
+    },
+    "UA Birla": {
+      "runs_played": 7,
+      "balls_played": 15,
+      "strike_rate": "46.67"
+    },
+    "M Rawat": {
+      "runs_played": 5,
+      "balls_played": 11,
+      "strike_rate": "45.45"
+    },
+    "WD Parnell": {
+      "runs_played": 5,
+      "balls_played": 7,
+      "strike_rate": "71.43"
+    },
+    "Parvez Rasool": {
+      "runs_played": 5,
+      "balls_played": 9,
+      "strike_rate": "55.56"
+    },
+    "K Upadhyay": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "GJ Maxwell": {
+      "runs_played": 36,
+      "balls_played": 27,
+      "strike_rate": "133.33"
+    },
+    "Harmeet Singh": {
+      "runs_played": 3,
+      "balls_played": 4,
+      "strike_rate": "75.00"
+    },
+    "Sandeep Sharma": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "A Mithun": {
+      "runs_played": 2,
+      "balls_played": 2,
+      "strike_rate": "100.00"
+    },
+    "RE van der Merwe": {
+      "runs_played": 22,
+      "balls_played": 25,
+      "strike_rate": "88.00"
+    },
+    "S Kaul": {
+      "runs_played": 7,
+      "balls_played": 9,
+      "strike_rate": "77.78"
+    },
+    "AP Tare": {
+      "runs_played": 123,
+      "balls_played": 84,
+      "strike_rate": "146.43"
+    },
+    "Sachin Baby": {
+      "runs_played": 3,
+      "balls_played": 7,
+      "strike_rate": "42.86"
+    },
+    "PV Tambe": {
+      "runs_played": 3,
+      "balls_played": 6,
+      "strike_rate": "50.00"
+    },
+    "NM Coulter-Nile": {
+      "runs_played": 9,
+      "balls_played": 6,
+      "strike_rate": "150.00"
+    },
+    "RV Gomez": {
+      "runs_played": 4,
+      "balls_played": 1,
+      "strike_rate": "400.00"
+    },
+    "B Chipli": {
+      "runs_played": 16,
+      "balls_played": 19,
+      "strike_rate": "84.21"
+    },
+    "P Dogra": {
+      "runs_played": 5,
+      "balls_played": 8,
+      "strike_rate": "62.50"
+    }
+  },
+  "2014": {
+    "G Gambhir": {
+      "runs_played": 335,
+      "balls_played": 301,
+      "strike_rate": "111.30"
+    },
+    "JH Kallis": {
+      "runs_played": 151,
+      "balls_played": 131,
+      "strike_rate": "115.27"
+    },
+    "MK Pandey": {
+      "runs_played": 409,
+      "balls_played": 359,
+      "strike_rate": "113.93"
+    },
+    "RV Uthappa": {
+      "runs_played": 660,
+      "balls_played": 485,
+      "strike_rate": "136.08"
+    },
+    "YK Pathan": {
+      "runs_played": 268,
+      "balls_played": 168,
+      "strike_rate": "159.52"
+    },
+    "Shakib Al Hasan": {
+      "runs_played": 229,
+      "balls_played": 160,
+      "strike_rate": "143.13"
+    },
+    "SA Yadav": {
+      "runs_played": 164,
+      "balls_played": 123,
+      "strike_rate": "133.33"
+    },
+    "MEK Hussey": {
+      "runs_played": 209,
+      "balls_played": 187,
+      "strike_rate": "111.76"
+    },
+    "AP Tare": {
+      "runs_played": 126,
+      "balls_played": 102,
+      "strike_rate": "123.53"
+    },
+    "AT Rayudu": {
+      "runs_played": 361,
+      "balls_played": 296,
+      "strike_rate": "121.96"
+    },
+    "RG Sharma": {
+      "runs_played": 390,
+      "balls_played": 307,
+      "strike_rate": "127.04"
+    },
+    "KA Pollard": {
+      "runs_played": 273,
+      "balls_played": 208,
+      "strike_rate": "131.25"
+    },
+    "CJ Anderson": {
+      "runs_played": 265,
+      "balls_played": 186,
+      "strike_rate": "142.47"
+    },
+    "Harbhajan Singh": {
+      "runs_played": 28,
+      "balls_played": 26,
+      "strike_rate": "107.69"
+    },
+    "CM Gautam": {
+      "runs_played": 121,
+      "balls_played": 116,
+      "strike_rate": "104.31"
+    },
+    "MA Agarwal": {
+      "runs_played": 115,
+      "balls_played": 93,
+      "strike_rate": "123.66"
+    },
+    "M Vijay": {
+      "runs_played": 207,
+      "balls_played": 197,
+      "strike_rate": "105.08"
+    },
+    "KD Karthik": {
+      "runs_played": 325,
+      "balls_played": 261,
+      "strike_rate": "124.52"
+    },
+    "MK Tiwary": {
+      "runs_played": 152,
+      "balls_played": 123,
+      "strike_rate": "123.58"
+    },
+    "JP Duminy": {
+      "runs_played": 410,
+      "balls_played": 311,
+      "strike_rate": "131.83"
+    },
+    "LRPL Taylor": {
+      "runs_played": 59,
+      "balls_played": 62,
+      "strike_rate": "95.16"
+    },
+    "PA Patel": {
+      "runs_played": 205,
+      "balls_played": 191,
+      "strike_rate": "107.33"
+    },
+    "NJ Maddinson": {
+      "runs_played": 16,
+      "balls_played": 14,
+      "strike_rate": "114.29"
+    },
+    "V Kohli": {
+      "runs_played": 359,
+      "balls_played": 301,
+      "strike_rate": "119.27"
+    },
+    "Yuvraj Singh": {
+      "runs_played": 376,
+      "balls_played": 288,
+      "strike_rate": "130.56"
+    },
+    "DR Smith": {
+      "runs_played": 566,
+      "balls_played": 425,
+      "strike_rate": "133.18"
+    },
+    "BB McCullum": {
+      "runs_played": 405,
+      "balls_played": 341,
+      "strike_rate": "118.77"
+    },
+    "SK Raina": {
+      "runs_played": 523,
+      "balls_played": 370,
+      "strike_rate": "141.35"
+    },
+    "MS Dhoni": {
+      "runs_played": 371,
+      "balls_played": 258,
+      "strike_rate": "143.80"
+    },
+    "DJ Bravo": {
+      "runs_played": 8,
+      "balls_played": 3,
+      "strike_rate": "266.67"
+    },
+    "CA Pujara": {
+      "runs_played": 125,
+      "balls_played": 129,
+      "strike_rate": "96.90"
+    },
+    "V Sehwag": {
+      "runs_played": 455,
+      "balls_played": 334,
+      "strike_rate": "136.23"
+    },
+    "GJ Maxwell": {
+      "runs_played": 552,
+      "balls_played": 312,
+      "strike_rate": "176.92"
+    },
+    "AR Patel": {
+      "runs_played": 62,
+      "balls_played": 61,
+      "strike_rate": "101.64"
+    },
+    "DA Miller": {
+      "runs_played": 446,
+      "balls_played": 307,
+      "strike_rate": "145.28"
+    },
+    "GJ Bailey": {
+      "runs_played": 257,
+      "balls_played": 190,
+      "strike_rate": "135.26"
+    },
+    "AJ Finch": {
+      "runs_played": 309,
+      "balls_played": 268,
+      "strike_rate": "115.30"
+    },
+    "DA Warner": {
+      "runs_played": 528,
+      "balls_played": 386,
+      "strike_rate": "136.79"
+    },
+    "S Dhawan": {
+      "runs_played": 377,
+      "balls_played": 332,
+      "strike_rate": "113.55"
+    },
+    "KL Rahul": {
+      "runs_played": 166,
+      "balls_played": 166,
+      "strike_rate": "100.00"
+    },
+    "DJG Sammy": {
+      "runs_played": 108,
+      "balls_played": 97,
+      "strike_rate": "111.34"
+    },
+    "Y Venugopal Rao": {
+      "runs_played": 71,
+      "balls_played": 65,
+      "strike_rate": "109.23"
+    },
+    "KV Sharma": {
+      "runs_played": 42,
+      "balls_played": 30,
+      "strike_rate": "140.00"
+    },
+    "AM Nayar": {
+      "runs_played": 43,
+      "balls_played": 50,
+      "strike_rate": "86.00"
+    },
+    "SV Samson": {
+      "runs_played": 339,
+      "balls_played": 280,
+      "strike_rate": "121.07"
+    },
+    "AM Rahane": {
+      "runs_played": 339,
+      "balls_played": 298,
+      "strike_rate": "113.76"
+    },
+    "SR Watson": {
+      "runs_played": 246,
+      "balls_played": 205,
+      "strike_rate": "120.00"
+    },
+    "STR Binny": {
+      "runs_played": 123,
+      "balls_played": 122,
+      "strike_rate": "100.82"
+    },
+    "BJ Hodge": {
+      "runs_played": 101,
+      "balls_played": 74,
+      "strike_rate": "136.49"
+    },
+    "R Bhatia": {
+      "runs_played": 67,
+      "balls_played": 55,
+      "strike_rate": "121.82"
+    },
+    "JP Faulkner": {
+      "runs_played": 181,
+      "balls_played": 99,
+      "strike_rate": "182.83"
+    },
+    "Z Khan": {
+      "runs_played": 8,
+      "balls_played": 7,
+      "strike_rate": "114.29"
+    },
+    "SL Malinga": {
+      "runs_played": 2,
+      "balls_played": 4,
+      "strike_rate": "50.00"
+    },
+    "PP Ojha": {
+      "runs_played": 4,
+      "balls_played": 8,
+      "strike_rate": "50.00"
+    },
+    "JJ Bumrah": {
+      "runs_played": 1,
+      "balls_played": 4,
+      "strike_rate": "25.00"
+    },
+    "AB de Villiers": {
+      "runs_played": 395,
+      "balls_played": 255,
+      "strike_rate": "154.90"
+    },
+    "JDS Neesham": {
+      "runs_played": 42,
+      "balls_played": 46,
+      "strike_rate": "91.30"
+    },
+    "SPD Smith": {
+      "runs_played": 152,
+      "balls_played": 115,
+      "strike_rate": "132.17"
+    },
+    "WP Saha": {
+      "runs_played": 362,
+      "balls_played": 255,
+      "strike_rate": "141.96"
+    },
+    "F du Plessis": {
+      "runs_played": 303,
+      "balls_played": 240,
+      "strike_rate": "126.25"
+    },
+    "RA Jadeja": {
+      "runs_played": 146,
+      "balls_played": 113,
+      "strike_rate": "129.20"
+    },
+    "M Manhas": {
+      "runs_played": 35,
+      "balls_played": 26,
+      "strike_rate": "134.62"
+    },
+    "R Ashwin": {
+      "runs_played": 45,
+      "balls_played": 48,
+      "strike_rate": "93.75"
+    },
+    "S Nadeem": {
+      "runs_played": 7,
+      "balls_played": 20,
+      "strike_rate": "35.00"
+    },
+    "Mohammed Shami": {
+      "runs_played": 3,
+      "balls_played": 8,
+      "strike_rate": "37.50"
+    },
+    "JD Unadkat": {
+      "runs_played": 1,
+      "balls_played": 6,
+      "strike_rate": "16.67"
+    },
+    "MG Johnson": {
+      "runs_played": 56,
+      "balls_played": 51,
+      "strike_rate": "109.80"
+    },
+    "IK Pathan": {
+      "runs_played": 55,
+      "balls_played": 58,
+      "strike_rate": "94.83"
+    },
+    "DW Steyn": {
+      "runs_played": 22,
+      "balls_played": 26,
+      "strike_rate": "84.62"
+    },
+    "A Mishra": {
+      "runs_played": 4,
+      "balls_played": 7,
+      "strike_rate": "57.14"
+    },
+    "B Kumar": {
+      "runs_played": 1,
+      "balls_played": 4,
+      "strike_rate": "25.00"
+    },
+    "TG Southee": {
+      "runs_played": 4,
+      "balls_played": 4,
+      "strike_rate": "100.00"
+    },
+    "DS Kulkarni": {
+      "runs_played": 35,
+      "balls_played": 27,
+      "strike_rate": "129.63"
+    },
+    "PV Tambe": {
+      "runs_played": 5,
+      "balls_played": 9,
+      "strike_rate": "55.56"
+    },
+    "CA Lynn": {
+      "runs_played": 58,
+      "balls_played": 52,
+      "strike_rate": "111.54"
+    },
+    "R Vinay Kumar": {
+      "runs_played": 4,
+      "balls_played": 7,
+      "strike_rate": "57.14"
+    },
+    "YV Takawale": {
+      "runs_played": 104,
+      "balls_played": 92,
+      "strike_rate": "113.04"
+    },
+    "JA Morkel": {
+      "runs_played": 45,
+      "balls_played": 41,
+      "strike_rate": "109.76"
+    },
+    "Q de Kock": {
+      "runs_played": 153,
+      "balls_played": 132,
+      "strike_rate": "115.91"
+    },
+    "KP Pietersen": {
+      "runs_played": 294,
+      "balls_played": 239,
+      "strike_rate": "123.01"
+    },
+    "S Rana": {
+      "runs_played": 73,
+      "balls_played": 66,
+      "strike_rate": "110.61"
+    },
+    "MA Starc": {
+      "runs_played": 85,
+      "balls_played": 84,
+      "strike_rate": "101.19"
+    },
+    "R Rampaul": {
+      "runs_played": 13,
+      "balls_played": 13,
+      "strike_rate": "100.00"
+    },
+    "AB Dinda": {
+      "runs_played": 4,
+      "balls_played": 13,
+      "strike_rate": "30.77"
+    },
+    "KK Nair": {
+      "runs_played": 330,
+      "balls_played": 237,
+      "strike_rate": "139.24"
+    },
+    "R Dhawan": {
+      "runs_played": 82,
+      "balls_played": 75,
+      "strike_rate": "109.33"
+    },
+    "L Balaji": {
+      "runs_played": 1,
+      "balls_played": 3,
+      "strike_rate": "33.33"
+    },
+    "Sandeep Sharma": {
+      "runs_played": 2,
+      "balls_played": 5,
+      "strike_rate": "40.00"
+    },
+    "PP Chawla": {
+      "runs_played": 31,
+      "balls_played": 20,
+      "strike_rate": "155.00"
+    },
+    "SP Narine": {
+      "runs_played": 10,
+      "balls_played": 15,
+      "strike_rate": "66.67"
+    },
+    "UT Yadav": {
+      "runs_played": 2,
+      "balls_played": 4,
+      "strike_rate": "50.00"
+    },
+    "M Morkel": {
+      "runs_played": 4,
+      "balls_played": 4,
+      "strike_rate": "100.00"
+    },
+    "KM Jadhav": {
+      "runs_played": 149,
+      "balls_played": 104,
+      "strike_rate": "143.27"
+    },
+    "CH Gayle": {
+      "runs_played": 196,
+      "balls_played": 188,
+      "strike_rate": "104.26"
+    },
+    "VR Aaron": {
+      "runs_played": 35,
+      "balls_played": 34,
+      "strike_rate": "102.94"
+    },
+    "MS Bisla": {
+      "runs_played": 3,
+      "balls_played": 9,
+      "strike_rate": "33.33"
+    },
+    "NV Ojha": {
+      "runs_played": 232,
+      "balls_played": 170,
+      "strike_rate": "136.47"
+    },
+    "BR Dunk": {
+      "runs_played": 40,
+      "balls_played": 36,
+      "strike_rate": "111.11"
+    },
+    "AD Russell": {
+      "runs_played": 2,
+      "balls_played": 8,
+      "strike_rate": "25.00"
+    },
+    "RR Rossouw": {
+      "runs_played": 39,
+      "balls_played": 41,
+      "strike_rate": "95.12"
+    },
+    "HV Patel": {
+      "runs_played": 13,
+      "balls_played": 7,
+      "strike_rate": "185.71"
+    },
+    "RN ten Doeschate": {
+      "runs_played": 52,
+      "balls_played": 33,
+      "strike_rate": "157.58"
+    },
+    "LR Shukla": {
+      "runs_played": 31,
+      "balls_played": 38,
+      "strike_rate": "81.58"
+    },
+    "Mandeep Singh": {
+      "runs_played": 24,
+      "balls_played": 28,
+      "strike_rate": "85.71"
+    },
+    "MC Henriques": {
+      "runs_played": 9,
+      "balls_played": 14,
+      "strike_rate": "64.29"
+    },
+    "KW Richardson": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "Shivam Sharma": {
+      "runs_played": 5,
+      "balls_played": 3,
+      "strike_rate": "166.67"
+    },
+    "YS Chahal": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "R Shukla": {
+      "runs_played": 18,
+      "balls_played": 21,
+      "strike_rate": "85.71"
+    },
+    "LMP Simmons": {
+      "runs_played": 394,
+      "balls_played": 299,
+      "strike_rate": "131.77"
+    },
+    "VH Zol": {
+      "runs_played": 29,
+      "balls_played": 26,
+      "strike_rate": "111.54"
+    },
+    "Ankit Sharma": {
+      "runs_played": 34,
+      "balls_played": 31,
+      "strike_rate": "109.68"
+    },
+    "DH Yagnik": {
+      "runs_played": 4,
+      "balls_played": 6,
+      "strike_rate": "66.67"
+    },
+    "M Vohra": {
+      "runs_played": 324,
+      "balls_played": 244,
+      "strike_rate": "132.79"
+    },
+    "KK Cooper": {
+      "runs_played": 39,
+      "balls_played": 28,
+      "strike_rate": "139.29"
+    },
+    "BCJ Cutting": {
+      "runs_played": 8,
+      "balls_played": 6,
+      "strike_rate": "133.33"
+    },
+    "Imran Tahir": {
+      "runs_played": 8,
+      "balls_played": 10,
+      "strike_rate": "80.00"
+    },
+    "S Kaul": {
+      "runs_played": 2,
+      "balls_played": 2,
+      "strike_rate": "100.00"
+    },
+    "DJ Hussey": {
+      "runs_played": 116,
+      "balls_played": 96,
+      "strike_rate": "120.83"
+    },
+    "AN Ahmed": {
+      "runs_played": 4,
+      "balls_played": 1,
+      "strike_rate": "400.00"
+    },
+    "UBT Chand": {
+      "runs_played": 2,
+      "balls_played": 10,
+      "strike_rate": "20.00"
+    },
+    "WD Parnell": {
+      "runs_played": 2,
+      "balls_played": 2,
+      "strike_rate": "100.00"
+    },
+    "SE Marsh": {
+      "runs_played": 70,
+      "balls_played": 54,
+      "strike_rate": "129.63"
+    },
+    "BE Hendricks": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "S Gopal": {
+      "runs_played": 11,
+      "balls_played": 10,
+      "strike_rate": "110.00"
+    },
+    "M de Lange": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "R Tewatia": {
+      "runs_played": 16,
+      "balls_played": 13,
+      "strike_rate": "123.08"
+    },
+    "VS Malik": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "S Anirudha": {
+      "runs_played": 3,
+      "balls_played": 5,
+      "strike_rate": "60.00"
+    },
+    "JO Holder": {
+      "runs_played": 16,
+      "balls_played": 12,
+      "strike_rate": "133.33"
+    },
+    "Karanveer Singh": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "P Kumar": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "MM Sharma": {
+      "runs_played": 1,
+      "balls_played": 3,
+      "strike_rate": "33.33"
+    }
+  },
+  "2015": {
+    "RG Sharma": {
+      "runs_played": 482,
+      "balls_played": 339,
+      "strike_rate": "142.18"
+    },
+    "AJ Finch": {
+      "runs_played": 23,
+      "balls_played": 33,
+      "strike_rate": "69.70"
+    },
+    "AP Tare": {
+      "runs_played": 14,
+      "balls_played": 18,
+      "strike_rate": "77.78"
+    },
+    "AT Rayudu": {
+      "runs_played": 281,
+      "balls_played": 195,
+      "strike_rate": "144.10"
+    },
+    "CJ Anderson": {
+      "runs_played": 114,
+      "balls_played": 98,
+      "strike_rate": "116.33"
+    },
+    "RV Uthappa": {
+      "runs_played": 364,
+      "balls_played": 287,
+      "strike_rate": "126.83"
+    },
+    "G Gambhir": {
+      "runs_played": 327,
+      "balls_played": 288,
+      "strike_rate": "113.54"
+    },
+    "MK Pandey": {
+      "runs_played": 225,
+      "balls_played": 187,
+      "strike_rate": "120.32"
+    },
+    "SA Yadav": {
+      "runs_played": 157,
+      "balls_played": 115,
+      "strike_rate": "136.52"
+    },
+    "YK Pathan": {
+      "runs_played": 312,
+      "balls_played": 243,
+      "strike_rate": "128.40"
+    },
+    "DR Smith": {
+      "runs_played": 399,
+      "balls_played": 341,
+      "strike_rate": "117.01"
+    },
+    "BB McCullum": {
+      "runs_played": 436,
+      "balls_played": 293,
+      "strike_rate": "148.81"
+    },
+    "SK Raina": {
+      "runs_played": 374,
+      "balls_played": 319,
+      "strike_rate": "117.24"
+    },
+    "F du Plessis": {
+      "runs_played": 380,
+      "balls_played": 317,
+      "strike_rate": "119.87"
+    },
+    "RA Jadeja": {
+      "runs_played": 132,
+      "balls_played": 128,
+      "strike_rate": "103.13"
+    },
+    "MS Dhoni": {
+      "runs_played": 372,
+      "balls_played": 309,
+      "strike_rate": "120.39"
+    },
+    "DJ Bravo": {
+      "runs_played": 195,
+      "balls_played": 151,
+      "strike_rate": "129.14"
+    },
+    "R Ashwin": {
+      "runs_played": 52,
+      "balls_played": 34,
+      "strike_rate": "152.94"
+    },
+    "MM Sharma": {
+      "runs_played": 28,
+      "balls_played": 18,
+      "strike_rate": "155.56"
+    },
+    "MA Agarwal": {
+      "runs_played": 213,
+      "balls_played": 187,
+      "strike_rate": "113.90"
+    },
+    "CM Gautam": {
+      "runs_played": 4,
+      "balls_played": 5,
+      "strike_rate": "80.00"
+    },
+    "JA Morkel": {
+      "runs_played": 86,
+      "balls_played": 70,
+      "strike_rate": "122.86"
+    },
+    "SS Iyer": {
+      "runs_played": 439,
+      "balls_played": 360,
+      "strike_rate": "121.94"
+    },
+    "KM Jadhav": {
+      "runs_played": 189,
+      "balls_played": 143,
+      "strike_rate": "132.17"
+    },
+    "Yuvraj Singh": {
+      "runs_played": 248,
+      "balls_played": 215,
+      "strike_rate": "115.35"
+    },
+    "JP Duminy": {
+      "runs_played": 414,
+      "balls_played": 327,
+      "strike_rate": "126.61"
+    },
+    "NM Coulter-Nile": {
+      "runs_played": 20,
+      "balls_played": 20,
+      "strike_rate": "100.00"
+    },
+    "A Mishra": {
+      "runs_played": 8,
+      "balls_played": 13,
+      "strike_rate": "61.54"
+    },
+    "Imran Tahir": {
+      "runs_played": 5,
+      "balls_played": 6,
+      "strike_rate": "83.33"
+    },
+    "AM Rahane": {
+      "runs_played": 540,
+      "balls_played": 423,
+      "strike_rate": "127.66"
+    },
+    "SV Samson": {
+      "runs_played": 204,
+      "balls_played": 166,
+      "strike_rate": "122.89"
+    },
+    "SPD Smith": {
+      "runs_played": 298,
+      "balls_played": 228,
+      "strike_rate": "130.70"
+    },
+    "KK Nair": {
+      "runs_played": 181,
+      "balls_played": 147,
+      "strike_rate": "123.13"
+    },
+    "STR Binny": {
+      "runs_played": 74,
+      "balls_played": 69,
+      "strike_rate": "107.25"
+    },
+    "JP Faulkner": {
+      "runs_played": 144,
+      "balls_played": 116,
+      "strike_rate": "124.14"
+    },
+    "DJ Hooda": {
+      "runs_played": 151,
+      "balls_played": 99,
+      "strike_rate": "152.53"
+    },
+    "CH Morris": {
+      "runs_played": 76,
+      "balls_played": 47,
+      "strike_rate": "161.70"
+    },
+    "V Sehwag": {
+      "runs_played": 99,
+      "balls_played": 89,
+      "strike_rate": "111.24"
+    },
+    "WP Saha": {
+      "runs_played": 249,
+      "balls_played": 205,
+      "strike_rate": "121.46"
+    },
+    "M Vijay": {
+      "runs_played": 251,
+      "balls_played": 233,
+      "strike_rate": "107.73"
+    },
+    "GJ Maxwell": {
+      "runs_played": 146,
+      "balls_played": 115,
+      "strike_rate": "126.96"
+    },
+    "AR Patel": {
+      "runs_played": 206,
+      "balls_played": 181,
+      "strike_rate": "113.81"
+    },
+    "DA Miller": {
+      "runs_played": 357,
+      "balls_played": 274,
+      "strike_rate": "130.29"
+    },
+    "GJ Bailey": {
+      "runs_played": 259,
+      "balls_played": 196,
+      "strike_rate": "132.14"
+    },
+    "MG Johnson": {
+      "runs_played": 31,
+      "balls_played": 38,
+      "strike_rate": "81.58"
+    },
+    "Anureet Singh": {
+      "runs_played": 18,
+      "balls_played": 31,
+      "strike_rate": "58.06"
+    },
+    "Karanveer Singh": {
+      "runs_played": 11,
+      "balls_played": 16,
+      "strike_rate": "68.75"
+    },
+    "DA Warner": {
+      "runs_played": 562,
+      "balls_played": 368,
+      "strike_rate": "152.72"
+    },
+    "S Dhawan": {
+      "runs_played": 353,
+      "balls_played": 293,
+      "strike_rate": "120.48"
+    },
+    "KL Rahul": {
+      "runs_played": 142,
+      "balls_played": 133,
+      "strike_rate": "106.77"
+    },
+    "NV Ojha": {
+      "runs_played": 137,
+      "balls_played": 126,
+      "strike_rate": "108.73"
+    },
+    "RS Bopara": {
+      "runs_played": 145,
+      "balls_played": 121,
+      "strike_rate": "119.83"
+    },
+    "KS Williamson": {
+      "runs_played": 31,
+      "balls_played": 29,
+      "strike_rate": "106.90"
+    },
+    "KV Sharma": {
+      "runs_played": 104,
+      "balls_played": 87,
+      "strike_rate": "119.54"
+    },
+    "Parvez Rasool": {
+      "runs_played": 2,
+      "balls_played": 2,
+      "strike_rate": "100.00"
+    },
+    "AD Russell": {
+      "runs_played": 326,
+      "balls_played": 175,
+      "strike_rate": "186.29"
+    },
+    "Shakib Al Hasan": {
+      "runs_played": 36,
+      "balls_played": 32,
+      "strike_rate": "112.50"
+    },
+    "CH Gayle": {
+      "runs_played": 491,
+      "balls_played": 359,
+      "strike_rate": "136.77"
+    },
+    "V Kohli": {
+      "runs_played": 505,
+      "balls_played": 395,
+      "strike_rate": "127.85"
+    },
+    "KD Karthik": {
+      "runs_played": 141,
+      "balls_played": 120,
+      "strike_rate": "117.50"
+    },
+    "Mandeep Singh": {
+      "runs_played": 157,
+      "balls_played": 102,
+      "strike_rate": "153.92"
+    },
+    "AB de Villiers": {
+      "runs_played": 513,
+      "balls_played": 302,
+      "strike_rate": "169.87"
+    },
+    "DJG Sammy": {
+      "runs_played": 13,
+      "balls_played": 18,
+      "strike_rate": "72.22"
+    },
+    "SA Abbott": {
+      "runs_played": 15,
+      "balls_played": 13,
+      "strike_rate": "115.38"
+    },
+    "HV Patel": {
+      "runs_played": 19,
+      "balls_played": 14,
+      "strike_rate": "135.71"
+    },
+    "AN Ahmed": {
+      "runs_played": 10,
+      "balls_played": 5,
+      "strike_rate": "200.00"
+    },
+    "AD Mathews": {
+      "runs_played": 144,
+      "balls_played": 109,
+      "strike_rate": "132.11"
+    },
+    "TG Southee": {
+      "runs_played": 13,
+      "balls_played": 9,
+      "strike_rate": "144.44"
+    },
+    "R Dhawan": {
+      "runs_played": 36,
+      "balls_played": 33,
+      "strike_rate": "109.09"
+    },
+    "KA Pollard": {
+      "runs_played": 419,
+      "balls_played": 270,
+      "strike_rate": "155.19"
+    },
+    "J Suchith": {
+      "runs_played": 48,
+      "balls_played": 33,
+      "strike_rate": "145.45"
+    },
+    "Harbhajan Singh": {
+      "runs_played": 117,
+      "balls_played": 81,
+      "strike_rate": "144.44"
+    },
+    "VR Aaron": {
+      "runs_played": 6,
+      "balls_played": 3,
+      "strike_rate": "200.00"
+    },
+    "YS Chahal": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "PA Patel": {
+      "runs_played": 339,
+      "balls_played": 255,
+      "strike_rate": "132.94"
+    },
+    "UBT Chand": {
+      "runs_played": 102,
+      "balls_played": 89,
+      "strike_rate": "114.61"
+    },
+    "S Gopal": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "P Negi": {
+      "runs_played": 116,
+      "balls_played": 77,
+      "strike_rate": "150.65"
+    },
+    "A Nehra": {
+      "runs_played": 1,
+      "balls_played": 7,
+      "strike_rate": "14.29"
+    },
+    "RG More": {
+      "runs_played": 2,
+      "balls_played": 2,
+      "strike_rate": "100.00"
+    },
+    "EJG Morgan": {
+      "runs_played": 187,
+      "balls_played": 154,
+      "strike_rate": "121.43"
+    },
+    "A Ashish Reddy": {
+      "runs_played": 73,
+      "balls_played": 46,
+      "strike_rate": "158.70"
+    },
+    "LMP Simmons": {
+      "runs_played": 540,
+      "balls_played": 455,
+      "strike_rate": "118.68"
+    },
+    "R Vinay Kumar": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "P Kumar": {
+      "runs_played": 17,
+      "balls_played": 25,
+      "strike_rate": "68.00"
+    },
+    "NLTC Perera": {
+      "runs_played": 12,
+      "balls_played": 15,
+      "strike_rate": "80.00"
+    },
+    "Gurkeerat Singh": {
+      "runs_played": 35,
+      "balls_played": 41,
+      "strike_rate": "85.37"
+    },
+    "RN ten Doeschate": {
+      "runs_played": 61,
+      "balls_played": 45,
+      "strike_rate": "135.56"
+    },
+    "PP Chawla": {
+      "runs_played": 54,
+      "balls_played": 49,
+      "strike_rate": "110.20"
+    },
+    "SR Watson": {
+      "runs_played": 347,
+      "balls_played": 270,
+      "strike_rate": "128.52"
+    },
+    "HH Pandya": {
+      "runs_played": 112,
+      "balls_played": 68,
+      "strike_rate": "164.71"
+    },
+    "MS Bisla": {
+      "runs_played": 37,
+      "balls_played": 30,
+      "strike_rate": "123.33"
+    },
+    "RR Rossouw": {
+      "runs_played": 14,
+      "balls_played": 10,
+      "strike_rate": "140.00"
+    },
+    "D Wiese": {
+      "runs_played": 122,
+      "balls_played": 90,
+      "strike_rate": "135.56"
+    },
+    "Iqbal Abdulla": {
+      "runs_played": 20,
+      "balls_played": 20,
+      "strike_rate": "100.00"
+    },
+    "MK Tiwary": {
+      "runs_played": 57,
+      "balls_played": 58,
+      "strike_rate": "98.28"
+    },
+    "SE Marsh": {
+      "runs_played": 93,
+      "balls_played": 65,
+      "strike_rate": "143.08"
+    },
+    "MC Henriques": {
+      "runs_played": 287,
+      "balls_played": 216,
+      "strike_rate": "132.87"
+    },
+    "SN Khan": {
+      "runs_played": 111,
+      "balls_played": 72,
+      "strike_rate": "154.17"
+    },
+    "MA Starc": {
+      "runs_played": 11,
+      "balls_played": 14,
+      "strike_rate": "78.57"
+    },
+    "MJ McClenaghan": {
+      "runs_played": 13,
+      "balls_played": 6,
+      "strike_rate": "216.67"
+    },
+    "SL Malinga": {
+      "runs_played": 6,
+      "balls_played": 11,
+      "strike_rate": "54.55"
+    },
+    "DS Kulkarni": {
+      "runs_played": 4,
+      "balls_played": 12,
+      "strike_rate": "33.33"
+    },
+    "PV Tambe": {
+      "runs_played": 3,
+      "balls_played": 5,
+      "strike_rate": "60.00"
+    },
+    "GH Vihari": {
+      "runs_played": 39,
+      "balls_played": 36,
+      "strike_rate": "108.33"
+    },
+    "DW Steyn": {
+      "runs_played": 20,
+      "balls_played": 13,
+      "strike_rate": "153.85"
+    },
+    "B Kumar": {
+      "runs_played": 17,
+      "balls_played": 10,
+      "strike_rate": "170.00"
+    },
+    "Sandeep Sharma": {
+      "runs_played": 9,
+      "balls_played": 14,
+      "strike_rate": "64.29"
+    },
+    "S Nadeem": {
+      "runs_played": 2,
+      "balls_played": 7,
+      "strike_rate": "28.57"
+    },
+    "DJ Muthuswami": {
+      "runs_played": 1,
+      "balls_played": 3,
+      "strike_rate": "33.33"
+    },
+    "M Vohra": {
+      "runs_played": 82,
+      "balls_played": 83,
+      "strike_rate": "98.80"
+    },
+    "J Botha": {
+      "runs_played": 31,
+      "balls_played": 15,
+      "strike_rate": "206.67"
+    },
+    "SS Tiwary": {
+      "runs_played": 109,
+      "balls_played": 83,
+      "strike_rate": "131.33"
+    },
+    "PJ Cummins": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "UT Yadav": {
+      "runs_played": 29,
+      "balls_played": 16,
+      "strike_rate": "181.25"
+    },
+    "GB Hogg": {
+      "runs_played": 7,
+      "balls_played": 6,
+      "strike_rate": "116.67"
+    },
+    "SN Thakur": {
+      "runs_played": 7,
+      "balls_played": 6,
+      "strike_rate": "116.67"
+    },
+    "J Theron": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "NJ Maddinson": {
+      "runs_played": 4,
+      "balls_played": 7,
+      "strike_rate": "57.14"
+    },
+    "Bipul Sharma": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "SP Narine": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "Q de Kock": {
+      "runs_played": 122,
+      "balls_played": 78,
+      "strike_rate": "156.41"
+    },
+    "R Bhatia": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "Ankit Sharma": {
+      "runs_played": 7,
+      "balls_played": 6,
+      "strike_rate": "116.67"
+    },
+    "BE Hendricks": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "MEK Hussey": {
+      "runs_played": 77,
+      "balls_played": 73,
+      "strike_rate": "105.48"
+    },
+    "Azhar Mahmood": {
+      "runs_played": 6,
+      "balls_played": 8,
+      "strike_rate": "75.00"
+    },
+    "M Morkel": {
+      "runs_played": 4,
+      "balls_played": 3,
+      "strike_rate": "133.33"
+    },
+    "S Aravind": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    }
+  },
+  "2016": {
+    "LMP Simmons": {
+      "runs_played": 8,
+      "balls_played": 8,
+      "strike_rate": "100.00"
+    },
+    "RG Sharma": {
+      "runs_played": 489,
+      "balls_played": 372,
+      "strike_rate": "131.45"
+    },
+    "HH Pandya": {
+      "runs_played": 44,
+      "balls_played": 66,
+      "strike_rate": "66.67"
+    },
+    "JC Buttler": {
+      "runs_played": 255,
+      "balls_played": 189,
+      "strike_rate": "134.92"
+    },
+    "AT Rayudu": {
+      "runs_played": 334,
+      "balls_played": 284,
+      "strike_rate": "117.61"
+    },
+    "KA Pollard": {
+      "runs_played": 208,
+      "balls_played": 156,
+      "strike_rate": "133.33"
+    },
+    "S Gopal": {
+      "runs_played": 2,
+      "balls_played": 16,
+      "strike_rate": "12.50"
+    },
+    "Harbhajan Singh": {
+      "runs_played": 92,
+      "balls_played": 91,
+      "strike_rate": "101.10"
+    },
+    "R Vinay Kumar": {
+      "runs_played": 13,
+      "balls_played": 12,
+      "strike_rate": "108.33"
+    },
+    "MJ McClenaghan": {
+      "runs_played": 34,
+      "balls_played": 23,
+      "strike_rate": "147.83"
+    },
+    "AM Rahane": {
+      "runs_played": 480,
+      "balls_played": 387,
+      "strike_rate": "124.03"
+    },
+    "F du Plessis": {
+      "runs_played": 206,
+      "balls_played": 169,
+      "strike_rate": "121.89"
+    },
+    "KP Pietersen": {
+      "runs_played": 73,
+      "balls_played": 61,
+      "strike_rate": "119.67"
+    },
+    "MA Agarwal": {
+      "runs_played": 27,
+      "balls_played": 26,
+      "strike_rate": "103.85"
+    },
+    "Q de Kock": {
+      "runs_played": 445,
+      "balls_played": 340,
+      "strike_rate": "130.88"
+    },
+    "SS Iyer": {
+      "runs_played": 30,
+      "balls_played": 46,
+      "strike_rate": "65.22"
+    },
+    "KK Nair": {
+      "runs_played": 357,
+      "balls_played": 304,
+      "strike_rate": "117.43"
+    },
+    "SV Samson": {
+      "runs_played": 291,
+      "balls_played": 265,
+      "strike_rate": "109.81"
+    },
+    "P Negi": {
+      "runs_played": 57,
+      "balls_played": 63,
+      "strike_rate": "90.48"
+    },
+    "CR Brathwaite": {
+      "runs_played": 83,
+      "balls_played": 40,
+      "strike_rate": "207.50"
+    },
+    "CH Morris": {
+      "runs_played": 195,
+      "balls_played": 114,
+      "strike_rate": "171.05"
+    },
+    "NM Coulter-Nile": {
+      "runs_played": 9,
+      "balls_played": 14,
+      "strike_rate": "64.29"
+    },
+    "A Mishra": {
+      "runs_played": 4,
+      "balls_played": 14,
+      "strike_rate": "28.57"
+    },
+    "Z Khan": {
+      "runs_played": 6,
+      "balls_played": 13,
+      "strike_rate": "46.15"
+    },
+    "RV Uthappa": {
+      "runs_played": 394,
+      "balls_played": 300,
+      "strike_rate": "131.33"
+    },
+    "G Gambhir": {
+      "runs_played": 501,
+      "balls_played": 424,
+      "strike_rate": "118.16"
+    },
+    "MK Pandey": {
+      "runs_played": 248,
+      "balls_played": 190,
+      "strike_rate": "130.53"
+    },
+    "M Vijay": {
+      "runs_played": 453,
+      "balls_played": 373,
+      "strike_rate": "121.45"
+    },
+    "M Vohra": {
+      "runs_played": 161,
+      "balls_played": 136,
+      "strike_rate": "118.38"
+    },
+    "DA Miller": {
+      "runs_played": 161,
+      "balls_played": 139,
+      "strike_rate": "115.83"
+    },
+    "GJ Maxwell": {
+      "runs_played": 179,
+      "balls_played": 129,
+      "strike_rate": "138.76"
+    },
+    "WP Saha": {
+      "runs_played": 270,
+      "balls_played": 214,
+      "strike_rate": "126.17"
+    },
+    "MP Stoinis": {
+      "runs_played": 146,
+      "balls_played": 111,
+      "strike_rate": "131.53"
+    },
+    "AR Patel": {
+      "runs_played": 111,
+      "balls_played": 81,
+      "strike_rate": "137.04"
+    },
+    "AJ Finch": {
+      "runs_played": 393,
+      "balls_played": 311,
+      "strike_rate": "126.37"
+    },
+    "BB McCullum": {
+      "runs_played": 354,
+      "balls_played": 273,
+      "strike_rate": "129.67"
+    },
+    "SK Raina": {
+      "runs_played": 399,
+      "balls_played": 321,
+      "strike_rate": "124.30"
+    },
+    "KD Karthik": {
+      "runs_played": 335,
+      "balls_played": 273,
+      "strike_rate": "122.71"
+    },
+    "RA Jadeja": {
+      "runs_played": 191,
+      "balls_played": 189,
+      "strike_rate": "101.06"
+    },
+    "Ishan Kishan": {
+      "runs_played": 42,
+      "balls_played": 41,
+      "strike_rate": "102.44"
+    },
+    "DJ Bravo": {
+      "runs_played": 99,
+      "balls_played": 88,
+      "strike_rate": "112.50"
+    },
+    "CH Gayle": {
+      "runs_played": 227,
+      "balls_played": 159,
+      "strike_rate": "142.77"
+    },
+    "V Kohli": {
+      "runs_played": 973,
+      "balls_played": 655,
+      "strike_rate": "148.55"
+    },
+    "AB de Villiers": {
+      "runs_played": 687,
+      "balls_played": 415,
+      "strike_rate": "165.54"
+    },
+    "SR Watson": {
+      "runs_played": 179,
+      "balls_played": 135,
+      "strike_rate": "132.59"
+    },
+    "KM Jadhav": {
+      "runs_played": 42,
+      "balls_played": 33,
+      "strike_rate": "127.27"
+    },
+    "SN Khan": {
+      "runs_played": 66,
+      "balls_played": 31,
+      "strike_rate": "212.90"
+    },
+    "DA Warner": {
+      "runs_played": 848,
+      "balls_played": 579,
+      "strike_rate": "146.46"
+    },
+    "S Dhawan": {
+      "runs_played": 501,
+      "balls_played": 438,
+      "strike_rate": "114.38"
+    },
+    "MC Henriques": {
+      "runs_played": 182,
+      "balls_played": 162,
+      "strike_rate": "112.35"
+    },
+    "NV Ojha": {
+      "runs_played": 136,
+      "balls_played": 142,
+      "strike_rate": "95.77"
+    },
+    "DJ Hooda": {
+      "runs_played": 144,
+      "balls_played": 125,
+      "strike_rate": "115.20"
+    },
+    "EJG Morgan": {
+      "runs_played": 123,
+      "balls_played": 105,
+      "strike_rate": "117.14"
+    },
+    "A Ashish Reddy": {
+      "runs_played": 47,
+      "balls_played": 30,
+      "strike_rate": "156.67"
+    },
+    "KV Sharma": {
+      "runs_played": 36,
+      "balls_played": 34,
+      "strike_rate": "105.88"
+    },
+    "AD Russell": {
+      "runs_played": 188,
+      "balls_played": 125,
+      "strike_rate": "150.40"
+    },
+    "YK Pathan": {
+      "runs_played": 361,
+      "balls_played": 256,
+      "strike_rate": "141.02"
+    },
+    "C Munro": {
+      "runs_played": 30,
+      "balls_played": 31,
+      "strike_rate": "96.77"
+    },
+    "SA Yadav": {
+      "runs_played": 182,
+      "balls_played": 148,
+      "strike_rate": "122.97"
+    },
+    "PA Patel": {
+      "runs_played": 177,
+      "balls_played": 161,
+      "strike_rate": "109.94"
+    },
+    "SPD Smith": {
+      "runs_played": 270,
+      "balls_played": 184,
+      "strike_rate": "146.74"
+    },
+    "MS Dhoni": {
+      "runs_played": 284,
+      "balls_played": 220,
+      "strike_rate": "129.09"
+    },
+    "MR Marsh": {
+      "runs_played": 7,
+      "balls_played": 11,
+      "strike_rate": "63.64"
+    },
+    "R Bhatia": {
+      "runs_played": 34,
+      "balls_played": 20,
+      "strike_rate": "170.00"
+    },
+    "SE Marsh": {
+      "runs_played": 159,
+      "balls_played": 134,
+      "strike_rate": "118.66"
+    },
+    "MG Johnson": {
+      "runs_played": 5,
+      "balls_played": 14,
+      "strike_rate": "35.71"
+    },
+    "MM Sharma": {
+      "runs_played": 32,
+      "balls_played": 27,
+      "strike_rate": "118.52"
+    },
+    "P Sahu": {
+      "runs_played": 19,
+      "balls_played": 13,
+      "strike_rate": "146.15"
+    },
+    "Sandeep Sharma": {
+      "runs_played": 8,
+      "balls_played": 9,
+      "strike_rate": "88.89"
+    },
+    "B Kumar": {
+      "runs_played": 43,
+      "balls_played": 28,
+      "strike_rate": "153.57"
+    },
+    "KH Pandya": {
+      "runs_played": 237,
+      "balls_played": 127,
+      "strike_rate": "186.61"
+    },
+    "TG Southee": {
+      "runs_played": 30,
+      "balls_played": 20,
+      "strike_rate": "150.00"
+    },
+    "AD Nath": {
+      "runs_played": 20,
+      "balls_played": 27,
+      "strike_rate": "74.07"
+    },
+    "JP Faulkner": {
+      "runs_played": 77,
+      "balls_played": 60,
+      "strike_rate": "128.33"
+    },
+    "P Kumar": {
+      "runs_played": 24,
+      "balls_played": 27,
+      "strike_rate": "88.89"
+    },
+    "DS Kulkarni": {
+      "runs_played": 27,
+      "balls_played": 16,
+      "strike_rate": "168.75"
+    },
+    "NLTC Perera": {
+      "runs_played": 150,
+      "balls_played": 97,
+      "strike_rate": "154.64"
+    },
+    "IK Pathan": {
+      "runs_played": 11,
+      "balls_played": 14,
+      "strike_rate": "78.57"
+    },
+    "R Ashwin": {
+      "runs_played": 41,
+      "balls_played": 38,
+      "strike_rate": "107.89"
+    },
+    "D Wiese": {
+      "runs_played": 5,
+      "balls_played": 4,
+      "strike_rate": "125.00"
+    },
+    "JP Duminy": {
+      "runs_played": 191,
+      "balls_played": 157,
+      "strike_rate": "121.66"
+    },
+    "MJ Guptill": {
+      "runs_played": 57,
+      "balls_played": 55,
+      "strike_rate": "103.64"
+    },
+    "KJ Abbott": {
+      "runs_played": 13,
+      "balls_played": 8,
+      "strike_rate": "162.50"
+    },
+    "Shakib Al Hasan": {
+      "runs_played": 114,
+      "balls_played": 108,
+      "strike_rate": "105.56"
+    },
+    "KL Rahul": {
+      "runs_played": 397,
+      "balls_played": 277,
+      "strike_rate": "143.32"
+    },
+    "TM Head": {
+      "runs_played": 54,
+      "balls_played": 42,
+      "strike_rate": "128.57"
+    },
+    "STR Binny": {
+      "runs_played": 63,
+      "balls_played": 41,
+      "strike_rate": "153.66"
+    },
+    "KW Richardson": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "DW Steyn": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "Ankit Sharma": {
+      "runs_played": 3,
+      "balls_played": 3,
+      "strike_rate": "100.00"
+    },
+    "M Ashwin": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "NS Naik": {
+      "runs_played": 23,
+      "balls_played": 33,
+      "strike_rate": "69.70"
+    },
+    "R Dhawan": {
+      "runs_played": 14,
+      "balls_played": 6,
+      "strike_rate": "233.33"
+    },
+    "AP Tare": {
+      "runs_played": 8,
+      "balls_played": 15,
+      "strike_rate": "53.33"
+    },
+    "DR Smith": {
+      "runs_played": 324,
+      "balls_played": 226,
+      "strike_rate": "143.36"
+    },
+    "JA Morkel": {
+      "runs_played": 16,
+      "balls_played": 9,
+      "strike_rate": "177.78"
+    },
+    "R Sathish": {
+      "runs_played": 24,
+      "balls_played": 24,
+      "strike_rate": "100.00"
+    },
+    "PP Chawla": {
+      "runs_played": 27,
+      "balls_played": 26,
+      "strike_rate": "103.85"
+    },
+    "UT Yadav": {
+      "runs_played": 9,
+      "balls_played": 6,
+      "strike_rate": "150.00"
+    },
+    "Bipul Sharma": {
+      "runs_played": 51,
+      "balls_played": 25,
+      "strike_rate": "204.00"
+    },
+    "RR Pant": {
+      "runs_played": 198,
+      "balls_played": 155,
+      "strike_rate": "127.74"
+    },
+    "CA Lynn": {
+      "runs_played": 25,
+      "balls_played": 23,
+      "strike_rate": "108.70"
+    },
+    "SS Tiwary": {
+      "runs_played": 170,
+      "balls_played": 149,
+      "strike_rate": "114.09"
+    },
+    "SW Billings": {
+      "runs_played": 88,
+      "balls_played": 66,
+      "strike_rate": "133.33"
+    },
+    "Mohammed Shami": {
+      "runs_played": 2,
+      "balls_played": 4,
+      "strike_rate": "50.00"
+    },
+    "JO Holder": {
+      "runs_played": 22,
+      "balls_played": 20,
+      "strike_rate": "110.00"
+    },
+    "SP Narine": {
+      "runs_played": 7,
+      "balls_played": 14,
+      "strike_rate": "50.00"
+    },
+    "KS Williamson": {
+      "runs_played": 124,
+      "balls_played": 126,
+      "strike_rate": "98.41"
+    },
+    "Sachin Baby": {
+      "runs_played": 119,
+      "balls_played": 82,
+      "strike_rate": "145.12"
+    },
+    "Parvez Rasool": {
+      "runs_played": 10,
+      "balls_played": 9,
+      "strike_rate": "111.11"
+    },
+    "Gurkeerat Singh": {
+      "runs_played": 113,
+      "balls_played": 87,
+      "strike_rate": "129.89"
+    },
+    "KC Cariappa": {
+      "runs_played": 13,
+      "balls_played": 11,
+      "strike_rate": "118.18"
+    },
+    "PSP Handscomb": {
+      "runs_played": 6,
+      "balls_played": 12,
+      "strike_rate": "50.00"
+    },
+    "Swapnil Singh": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "J Yadav": {
+      "runs_played": 6,
+      "balls_played": 12,
+      "strike_rate": "50.00"
+    },
+    "UT Khawaja": {
+      "runs_played": 127,
+      "balls_played": 105,
+      "strike_rate": "120.95"
+    },
+    "Yuvraj Singh": {
+      "runs_played": 236,
+      "balls_played": 183,
+      "strike_rate": "128.96"
+    },
+    "GJ Bailey": {
+      "runs_played": 84,
+      "balls_played": 99,
+      "strike_rate": "84.85"
+    },
+    "HM Amla": {
+      "runs_played": 157,
+      "balls_played": 122,
+      "strike_rate": "128.69"
+    },
+    "JJ Bumrah": {
+      "runs_played": 8,
+      "balls_played": 11,
+      "strike_rate": "72.73"
+    },
+    "F Behardien": {
+      "runs_played": 14,
+      "balls_played": 13,
+      "strike_rate": "107.69"
+    },
+    "BB Sran": {
+      "runs_played": 4,
+      "balls_played": 4,
+      "strike_rate": "100.00"
+    },
+    "A Zampa": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "N Rana": {
+      "runs_played": 104,
+      "balls_played": 78,
+      "strike_rate": "133.33"
+    },
+    "A Nehra": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "UBT Chand": {
+      "runs_played": 0,
+      "balls_played": 5,
+      "strike_rate": "0.00"
+    },
+    "PV Tambe": {
+      "runs_played": 7,
+      "balls_played": 19,
+      "strike_rate": "36.84"
+    },
+    "S Kaushik": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "BCJ Cutting": {
+      "runs_played": 65,
+      "balls_played": 37,
+      "strike_rate": "175.68"
+    },
+    "S Nadeem": {
+      "runs_played": 1,
+      "balls_played": 5,
+      "strike_rate": "20.00"
+    },
+    "Imran Tahir": {
+      "runs_played": 5,
+      "balls_played": 7,
+      "strike_rate": "71.43"
+    },
+    "M Morkel": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "ER Dwivedi": {
+      "runs_played": 24,
+      "balls_played": 15,
+      "strike_rate": "160.00"
+    },
+    "SB Jakati": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "Iqbal Abdulla": {
+      "runs_played": 37,
+      "balls_played": 27,
+      "strike_rate": "137.04"
+    },
+    "CJ Jordan": {
+      "runs_played": 3,
+      "balls_played": 4,
+      "strike_rate": "75.00"
+    }
+  },
+  "2017": {
+    "DA Warner": {
+      "runs_played": 641,
+      "balls_played": 462,
+      "strike_rate": "138.74"
+    },
+    "S Dhawan": {
+      "runs_played": 479,
+      "balls_played": 383,
+      "strike_rate": "125.07"
+    },
+    "MC Henriques": {
+      "runs_played": 277,
+      "balls_played": 205,
+      "strike_rate": "135.12"
+    },
+    "Yuvraj Singh": {
+      "runs_played": 252,
+      "balls_played": 188,
+      "strike_rate": "134.04"
+    },
+    "DJ Hooda": {
+      "runs_played": 78,
+      "balls_played": 53,
+      "strike_rate": "147.17"
+    },
+    "BCJ Cutting": {
+      "runs_played": 51,
+      "balls_played": 27,
+      "strike_rate": "188.89"
+    },
+    "CH Gayle": {
+      "runs_played": 200,
+      "balls_played": 172,
+      "strike_rate": "116.28"
+    },
+    "Mandeep Singh": {
+      "runs_played": 188,
+      "balls_played": 178,
+      "strike_rate": "105.62"
+    },
+    "TM Head": {
+      "runs_played": 151,
+      "balls_played": 109,
+      "strike_rate": "138.53"
+    },
+    "KM Jadhav": {
+      "runs_played": 267,
+      "balls_played": 194,
+      "strike_rate": "137.63"
+    },
+    "SR Watson": {
+      "runs_played": 71,
+      "balls_played": 80,
+      "strike_rate": "88.75"
+    },
+    "Sachin Baby": {
+      "runs_played": 15,
+      "balls_played": 17,
+      "strike_rate": "88.24"
+    },
+    "STR Binny": {
+      "runs_played": 78,
+      "balls_played": 77,
+      "strike_rate": "101.30"
+    },
+    "S Aravind": {
+      "runs_played": 32,
+      "balls_played": 40,
+      "strike_rate": "80.00"
+    },
+    "YS Chahal": {
+      "runs_played": 13,
+      "balls_played": 26,
+      "strike_rate": "50.00"
+    },
+    "TS Mills": {
+      "runs_played": 8,
+      "balls_played": 11,
+      "strike_rate": "72.73"
+    },
+    "A Choudhary": {
+      "runs_played": 25,
+      "balls_played": 20,
+      "strike_rate": "125.00"
+    },
+    "PA Patel": {
+      "runs_played": 395,
+      "balls_played": 308,
+      "strike_rate": "128.25"
+    },
+    "JC Buttler": {
+      "runs_played": 273,
+      "balls_played": 186,
+      "strike_rate": "146.77"
+    },
+    "RG Sharma": {
+      "runs_played": 333,
+      "balls_played": 278,
+      "strike_rate": "119.78"
+    },
+    "N Rana": {
+      "runs_played": 333,
+      "balls_played": 277,
+      "strike_rate": "120.22"
+    },
+    "AT Rayudu": {
+      "runs_played": 91,
+      "balls_played": 80,
+      "strike_rate": "113.75"
+    },
+    "KH Pandya": {
+      "runs_played": 243,
+      "balls_played": 186,
+      "strike_rate": "130.65"
+    },
+    "KA Pollard": {
+      "runs_played": 395,
+      "balls_played": 294,
+      "strike_rate": "134.35"
+    },
+    "HH Pandya": {
+      "runs_played": 250,
+      "balls_played": 172,
+      "strike_rate": "145.35"
+    },
+    "TG Southee": {
+      "runs_played": 7,
+      "balls_played": 3,
+      "strike_rate": "233.33"
+    },
+    "AM Rahane": {
+      "runs_played": 382,
+      "balls_played": 328,
+      "strike_rate": "116.46"
+    },
+    "MA Agarwal": {
+      "runs_played": 26,
+      "balls_played": 29,
+      "strike_rate": "89.66"
+    },
+    "SPD Smith": {
+      "runs_played": 472,
+      "balls_played": 400,
+      "strike_rate": "118.00"
+    },
+    "BA Stokes": {
+      "runs_played": 316,
+      "balls_played": 227,
+      "strike_rate": "139.21"
+    },
+    "MS Dhoni": {
+      "runs_played": 290,
+      "balls_played": 261,
+      "strike_rate": "111.11"
+    },
+    "JJ Roy": {
+      "runs_played": 59,
+      "balls_played": 41,
+      "strike_rate": "143.90"
+    },
+    "BB McCullum": {
+      "runs_played": 320,
+      "balls_played": 227,
+      "strike_rate": "140.97"
+    },
+    "SK Raina": {
+      "runs_played": 442,
+      "balls_played": 310,
+      "strike_rate": "142.58"
+    },
+    "AJ Finch": {
+      "runs_played": 300,
+      "balls_played": 190,
+      "strike_rate": "157.89"
+    },
+    "KD Karthik": {
+      "runs_played": 361,
+      "balls_played": 268,
+      "strike_rate": "134.70"
+    },
+    "G Gambhir": {
+      "runs_played": 498,
+      "balls_played": 405,
+      "strike_rate": "122.96"
+    },
+    "CA Lynn": {
+      "runs_played": 295,
+      "balls_played": 175,
+      "strike_rate": "168.57"
+    },
+    "MK Tiwary": {
+      "runs_played": 324,
+      "balls_played": 242,
+      "strike_rate": "133.88"
+    },
+    "DT Christian": {
+      "runs_played": 79,
+      "balls_played": 52,
+      "strike_rate": "151.92"
+    },
+    "HM Amla": {
+      "runs_played": 420,
+      "balls_played": 296,
+      "strike_rate": "141.89"
+    },
+    "M Vohra": {
+      "runs_played": 229,
+      "balls_played": 170,
+      "strike_rate": "134.71"
+    },
+    "WP Saha": {
+      "runs_played": 234,
+      "balls_played": 194,
+      "strike_rate": "120.62"
+    },
+    "AR Patel": {
+      "runs_played": 227,
+      "balls_played": 171,
+      "strike_rate": "132.75"
+    },
+    "GJ Maxwell": {
+      "runs_played": 310,
+      "balls_played": 186,
+      "strike_rate": "166.67"
+    },
+    "DA Miller": {
+      "runs_played": 83,
+      "balls_played": 82,
+      "strike_rate": "101.22"
+    },
+    "Vishnu Vinod": {
+      "runs_played": 19,
+      "balls_played": 26,
+      "strike_rate": "73.08"
+    },
+    "Iqbal Abdulla": {
+      "runs_played": 5,
+      "balls_played": 7,
+      "strike_rate": "71.43"
+    },
+    "P Negi": {
+      "runs_played": 144,
+      "balls_played": 114,
+      "strike_rate": "126.32"
+    },
+    "AP Tare": {
+      "runs_played": 18,
+      "balls_played": 25,
+      "strike_rate": "72.00"
+    },
+    "SW Billings": {
+      "runs_played": 138,
+      "balls_played": 107,
+      "strike_rate": "128.97"
+    },
+    "KK Nair": {
+      "runs_played": 281,
+      "balls_played": 229,
+      "strike_rate": "122.71"
+    },
+    "SV Samson": {
+      "runs_played": 386,
+      "balls_played": 275,
+      "strike_rate": "140.36"
+    },
+    "RR Pant": {
+      "runs_played": 366,
+      "balls_played": 226,
+      "strike_rate": "161.95"
+    },
+    "CH Morris": {
+      "runs_played": 154,
+      "balls_played": 97,
+      "strike_rate": "158.76"
+    },
+    "CR Brathwaite": {
+      "runs_played": 12,
+      "balls_played": 16,
+      "strike_rate": "75.00"
+    },
+    "PJ Cummins": {
+      "runs_played": 77,
+      "balls_played": 54,
+      "strike_rate": "142.59"
+    },
+    "A Mishra": {
+      "runs_played": 49,
+      "balls_played": 56,
+      "strike_rate": "87.50"
+    },
+    "S Nadeem": {
+      "runs_played": 2,
+      "balls_played": 9,
+      "strike_rate": "22.22"
+    },
+    "Z Khan": {
+      "runs_played": 4,
+      "balls_played": 13,
+      "strike_rate": "30.77"
+    },
+    "DR Smith": {
+      "runs_played": 239,
+      "balls_played": 158,
+      "strike_rate": "151.27"
+    },
+    "DS Kulkarni": {
+      "runs_played": 1,
+      "balls_played": 2,
+      "strike_rate": "50.00"
+    },
+    "P Kumar": {
+      "runs_played": 8,
+      "balls_played": 9,
+      "strike_rate": "88.89"
+    },
+    "Basil Thampi": {
+      "runs_played": 28,
+      "balls_played": 30,
+      "strike_rate": "93.33"
+    },
+    "RV Uthappa": {
+      "runs_played": 388,
+      "balls_played": 239,
+      "strike_rate": "162.34"
+    },
+    "MK Pandey": {
+      "runs_played": 396,
+      "balls_played": 315,
+      "strike_rate": "125.71"
+    },
+    "YK Pathan": {
+      "runs_played": 143,
+      "balls_played": 123,
+      "strike_rate": "116.26"
+    },
+    "SA Yadav": {
+      "runs_played": 105,
+      "balls_played": 89,
+      "strike_rate": "117.98"
+    },
+    "CR Woakes": {
+      "runs_played": 46,
+      "balls_played": 47,
+      "strike_rate": "97.87"
+    },
+    "SP Narine": {
+      "runs_played": 224,
+      "balls_played": 135,
+      "strike_rate": "165.93"
+    },
+    "Harbhajan Singh": {
+      "runs_played": 16,
+      "balls_played": 17,
+      "strike_rate": "94.12"
+    },
+    "AB de Villiers": {
+      "runs_played": 216,
+      "balls_played": 171,
+      "strike_rate": "126.32"
+    },
+    "CJ Anderson": {
+      "runs_played": 142,
+      "balls_played": 130,
+      "strike_rate": "109.23"
+    },
+    "F du Plessis": {
+      "runs_played": 8,
+      "balls_played": 7,
+      "strike_rate": "114.29"
+    },
+    "RA Tripathi": {
+      "runs_played": 391,
+      "balls_played": 275,
+      "strike_rate": "142.18"
+    },
+    "R Bhatia": {
+      "runs_played": 16,
+      "balls_played": 17,
+      "strike_rate": "94.12"
+    },
+    "DL Chahar": {
+      "runs_played": 14,
+      "balls_played": 6,
+      "strike_rate": "233.33"
+    },
+    "A Zampa": {
+      "runs_played": 5,
+      "balls_played": 7,
+      "strike_rate": "71.43"
+    },
+    "AB Dinda": {
+      "runs_played": 7,
+      "balls_played": 8,
+      "strike_rate": "87.50"
+    },
+    "Imran Tahir": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "NV Ojha": {
+      "runs_played": 79,
+      "balls_played": 70,
+      "strike_rate": "112.86"
+    },
+    "V Shankar": {
+      "runs_played": 101,
+      "balls_played": 77,
+      "strike_rate": "131.17"
+    },
+    "Rashid Khan": {
+      "runs_played": 11,
+      "balls_played": 9,
+      "strike_rate": "122.22"
+    },
+    "B Kumar": {
+      "runs_played": 4,
+      "balls_played": 4,
+      "strike_rate": "100.00"
+    },
+    "MP Stoinis": {
+      "runs_played": 17,
+      "balls_played": 25,
+      "strike_rate": "68.00"
+    },
+    "MM Sharma": {
+      "runs_played": 51,
+      "balls_played": 51,
+      "strike_rate": "100.00"
+    },
+    "VR Aaron": {
+      "runs_played": 4,
+      "balls_played": 11,
+      "strike_rate": "36.36"
+    },
+    "V Kohli": {
+      "runs_played": 308,
+      "balls_played": 257,
+      "strike_rate": "119.84"
+    },
+    "MJ McClenaghan": {
+      "runs_played": 16,
+      "balls_played": 16,
+      "strike_rate": "100.00"
+    },
+    "Ankit Sharma": {
+      "runs_played": 25,
+      "balls_played": 16,
+      "strike_rate": "156.25"
+    },
+    "SN Thakur": {
+      "runs_played": 0,
+      "balls_played": 3,
+      "strike_rate": "0.00"
+    },
+    "RD Chahar": {
+      "runs_played": 3,
+      "balls_played": 2,
+      "strike_rate": "150.00"
+    },
+    "LH Ferguson": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "C de Grandhomme": {
+      "runs_played": 126,
+      "balls_played": 92,
+      "strike_rate": "136.96"
+    },
+    "Bipul Sharma": {
+      "runs_played": 31,
+      "balls_played": 25,
+      "strike_rate": "124.00"
+    },
+    "SS Iyer": {
+      "runs_played": 338,
+      "balls_played": 249,
+      "strike_rate": "135.74"
+    },
+    "EJG Morgan": {
+      "runs_played": 65,
+      "balls_played": 62,
+      "strike_rate": "104.84"
+    },
+    "KC Cariappa": {
+      "runs_played": 2,
+      "balls_played": 7,
+      "strike_rate": "28.57"
+    },
+    "Sandeep Sharma": {
+      "runs_played": 7,
+      "balls_played": 7,
+      "strike_rate": "100.00"
+    },
+    "Ishan Kishan": {
+      "runs_played": 277,
+      "balls_played": 214,
+      "strike_rate": "129.44"
+    },
+    "JD Unadkat": {
+      "runs_played": 2,
+      "balls_played": 5,
+      "strike_rate": "40.00"
+    },
+    "AF Milne": {
+      "runs_played": 7,
+      "balls_played": 12,
+      "strike_rate": "58.33"
+    },
+    "S Badree": {
+      "runs_played": 13,
+      "balls_played": 25,
+      "strike_rate": "52.00"
+    },
+    "AD Mathews": {
+      "runs_played": 32,
+      "balls_played": 28,
+      "strike_rate": "114.29"
+    },
+    "Mohammed Shami": {
+      "runs_played": 36,
+      "balls_played": 24,
+      "strike_rate": "150.00"
+    },
+    "Mohammad Nabi": {
+      "runs_played": 2,
+      "balls_played": 3,
+      "strike_rate": "66.67"
+    },
+    "I Sharma": {
+      "runs_played": 8,
+      "balls_played": 13,
+      "strike_rate": "61.54"
+    },
+    "RA Jadeja": {
+      "runs_played": 158,
+      "balls_played": 118,
+      "strike_rate": "133.90"
+    },
+    "AJ Tye": {
+      "runs_played": 53,
+      "balls_played": 30,
+      "strike_rate": "176.67"
+    },
+    "KS Williamson": {
+      "runs_played": 256,
+      "balls_played": 170,
+      "strike_rate": "150.59"
+    },
+    "SE Marsh": {
+      "runs_played": 264,
+      "balls_played": 198,
+      "strike_rate": "133.33"
+    },
+    "Shakib Al Hasan": {
+      "runs_played": 1,
+      "balls_played": 1,
+      "strike_rate": "100.00"
+    },
+    "JP Faulkner": {
+      "runs_played": 54,
+      "balls_played": 60,
+      "strike_rate": "90.00"
+    },
+    "MG Johnson": {
+      "runs_played": 20,
+      "balls_played": 17,
+      "strike_rate": "117.65"
+    },
+    "K Rabada": {
+      "runs_played": 55,
+      "balls_played": 68,
+      "strike_rate": "80.88"
+    },
+    "AD Nath": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "NM Coulter-Nile": {
+      "runs_played": 14,
+      "balls_played": 13,
+      "strike_rate": "107.69"
+    },
+    "Kuldeep Yadav": {
+      "runs_played": 20,
+      "balls_played": 22,
+      "strike_rate": "90.91"
+    },
+    "UT Yadav": {
+      "runs_played": 10,
+      "balls_played": 13,
+      "strike_rate": "76.92"
+    },
+    "Washington Sundar": {
+      "runs_played": 9,
+      "balls_played": 12,
+      "strike_rate": "75.00"
+    },
+    "KV Sharma": {
+      "runs_played": 49,
+      "balls_played": 42,
+      "strike_rate": "116.67"
+    },
+    "DM Bravo": {
+      "runs_played": 6,
+      "balls_played": 5,
+      "strike_rate": "120.00"
+    },
+    "AR Bawne": {
+      "runs_played": 12,
+      "balls_played": 12,
+      "strike_rate": "100.00"
+    },
+    "SP Jackson": {
+      "runs_played": 38,
+      "balls_played": 31,
+      "strike_rate": "122.58"
+    },
+    "MJ Guptill": {
+      "runs_played": 132,
+      "balls_played": 88,
+      "strike_rate": "150.00"
+    },
+    "Anureet Singh": {
+      "runs_played": 15,
+      "balls_played": 12,
+      "strike_rate": "125.00"
+    },
+    "IK Pathan": {
+      "runs_played": 2,
+      "balls_played": 3,
+      "strike_rate": "66.67"
+    },
+    "Ankit Soni": {
+      "runs_played": 7,
+      "balls_played": 9,
+      "strike_rate": "77.78"
+    },
+    "JJ Bumrah": {
+      "runs_played": 16,
+      "balls_played": 12,
+      "strike_rate": "133.33"
+    },
+    "SL Malinga": {
+      "runs_played": 7,
+      "balls_played": 3,
+      "strike_rate": "233.33"
+    },
+    "PJ Sangwan": {
+      "runs_played": 2,
+      "balls_played": 4,
+      "strike_rate": "50.00"
+    },
+    "S Kaul": {
+      "runs_played": 0,
+      "balls_played": 2,
+      "strike_rate": "0.00"
+    },
+    "LMP Simmons": {
+      "runs_played": 137,
+      "balls_played": 116,
+      "strike_rate": "118.10"
+    },
+    "MN Samuels": {
+      "runs_played": 29,
+      "balls_played": 32,
+      "strike_rate": "90.63"
+    },
+    "Swapnil Singh": {
+      "runs_played": 12,
+      "balls_played": 19,
+      "strike_rate": "63.16"
+    },
+    "R Tewatia": {
+      "runs_played": 19,
+      "balls_played": 11,
+      "strike_rate": "172.73"
+    },
+    "MM Patel": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "SS Tiwary": {
+      "runs_played": 52,
+      "balls_played": 46,
+      "strike_rate": "113.04"
+    },
+    "TA Boult": {
+      "runs_played": 5,
+      "balls_played": 8,
+      "strike_rate": "62.50"
+    },
+    "CJ Jordan": {
+      "runs_played": 0,
+      "balls_played": 1,
+      "strike_rate": "0.00"
+    },
+    "IR Jaggi": {
+      "runs_played": 33,
+      "balls_played": 40,
+      "strike_rate": "82.50"
+    },
+    "PP Chawla": {
+      "runs_played": 2,
+      "balls_played": 6,
+      "strike_rate": "33.33"
+    },
+    "AS Rajpoot": {
+      "runs_played": 4,
+      "balls_played": 7,
+      "strike_rate": "57.14"
+    }
+  }
+}
