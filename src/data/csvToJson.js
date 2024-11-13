@@ -27,6 +27,7 @@ function convertCsvToListOfObjects(csvFilePath) {
 
       return obj;
     });
+   
 
     // Filter out any empty rows (if any)
     const filteredResult = result.filter(row => Object.keys(row).length > 0);
@@ -36,6 +37,7 @@ function convertCsvToListOfObjects(csvFilePath) {
     console.error('Error reading the file:', err);
   }
 }
+
 
 
 
